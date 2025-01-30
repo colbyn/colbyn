@@ -7,7 +7,7 @@
 
 # Status
 
-Currently working on rich text rendering over at [github.com/SuperSwiftMarkup](https://github.com/SuperSwiftMarkup). 
+Currently working on native macOS/iOS rich text rendering over at [github.com/SuperSwiftMarkup](https://github.com/SuperSwiftMarkup). 
 
 Notably, 
 - [SuperSwiftMarkdownPrototype]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkdownPrototype ): The super cool proof of concept markdown renderer.
