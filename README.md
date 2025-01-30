@@ -11,4 +11,4 @@ Currently working on native macOS/iOS rich text rendering over at [github.com/Su
 
 Notably, 
 - [SuperSwiftMarkdownPrototype]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkdownPrototype ): The super cool proof of concept markdown renderer.
-- [SuperSwiftMarkup]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkup ): A complete redesign using the above POC as a reference.
+- [SuperSwiftMarkup]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkup ): A complete WIP redesign using the above POC as a reference.
