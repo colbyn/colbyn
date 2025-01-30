@@ -10,5 +10,5 @@
 Currently working on rich text rendering over at [github.com/SuperSwiftMarkup](https://github.com/SuperSwiftMarkup). 
 
 Notably, 
-- [SuperSwiftMarkdownPrototype]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkdownPrototype ): The Super Cool Proof Of Concept Markdown Renderer.
+- [SuperSwiftMarkdownPrototype]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkdownPrototype ): The super cool proof of concept markdown renderer.
 - [SuperSwiftMarkup]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkup ): A complete redesign using the above POC as a reference.
