@@ -182,7 +182,7 @@ In absolute terms everything hitherto was a waste of time. Which lead to the fol
             - In a way I paid a price for these things and who wants to just waste such an expenditure? 
 - Mentally speaking:
     - At one point in my life I was certain that my brain was permanently fried. Akin to some homeless people I've met.
-    - But at this time it was like some hitherto unknown brain fog was beginning to lift.
+    - But at this time it was like some hitherto unknown brain fog was beginning to lift. (If so perhaps the brain's fault tolerance capacity took effect in my case.)
     - Loneliness was no longer something I wanted to cure.
 
 ### Sometime Afterwards
