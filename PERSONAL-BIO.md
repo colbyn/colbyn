@@ -48,7 +48,7 @@ In absolute terms everything hitherto was a waste of time. Which lead to the fol
 
 - My digital notes were growing in complexity and sophistication from rendered PDFs to webpages—which I preferred because I could quickly navigate from one resource to an other via hyperlinks.
 - By the end of the year I have a well developed [toolchain]( https://github.com/subscript-publishing/subscript-html ) for automating its complication, I referred to it as **Content Publishing using Web Technologies** with tons of conveniences such as rendering Desmos graphs as shown the following:
-    ```
+    ```html
     <include src="../template/base.html">
         <h1>My Book</h1>
         
