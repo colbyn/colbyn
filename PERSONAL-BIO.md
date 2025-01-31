@@ -66,7 +66,7 @@ In absolute terms everything hitherto was a waste of time. Which lead to the fol
         </desmos>
     </include>
     ```
-- The above tool lead to the culmination of [colbyn's mathematical notes]( https://colbyn.github.io/school-notes-spring-2020/ ). Which I used to great effect and yet such left much to be desired.
+- The above tool lead to the culmination of [colbyn's math notes]( https://colbyn.github.io/school-notes-spring-2020/ ). Which I used to great effect and yet such left much to be desired.
     What I wanted was:
 
     - Seamless support for typeset and hand drawn notes.
