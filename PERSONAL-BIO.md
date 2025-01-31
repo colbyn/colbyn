@@ -129,10 +129,7 @@ In absolute terms everything hitherto was a waste of time. Which lead to the fol
   
   But oh no!
   
-  Turns out that the IT job market has completely crashed. Apparently it was not the panacea we all thought.
-
-- "Learn to code" became a meme again but with a whole new meaning. Which in a way I expected such to eventually happen (partly why I was interested in going to university and changing careers) but the timing was terrible for me at this point in my life.
-- At this point I was now completely disillusioned with regard to white collar professions in general and higher education in particular, and as I said all I really wanted was to find some avenue with a sense of stability and security but fate had other ideas. 
+  Turns out that the IT job market has completely crashed. Apparently it was not the panacea we all thought. At this point I was now completely disillusioned with regard to white collar professions in general and higher education in particular.
 
 **Sometime in the aftermath of me falling from grace:**
 - Clearly I was no longer the person I thought I was. 
@@ -141,10 +138,6 @@ In absolute terms everything hitherto was a waste of time. Which lead to the fol
   > fate is a cruel mistress
 
   Now seemed very real, as life now seemed like nature as found in the wild.
-  
-  My personality itself became harsh with regard to myself. With small remarks here and there that I regret.
-  
-  But ultimately I resolved to get my life back on track in one form or another, and if this meant restarting my life anew along a different trajectory, then so be it.
 
 **Time to get my life back together:**
 - Whatever identity I had of myself was no longer so I may as well start from scratch. 

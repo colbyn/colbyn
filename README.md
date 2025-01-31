@@ -1,4 +1,4 @@
-# Biography & Status Timelines
+# Biographical Status Timeline
 
 ## Pre 2025
 
