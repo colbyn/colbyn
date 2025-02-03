@@ -64,6 +64,27 @@ So keep in mind:
 
 Personally I, the author (Colbyn Wadman), have been messing around with miscellaneous problems concerning text processing and text rendering (in one form or another) for a very long time and—as far as the POC has demonstrated—it’s good to see something interesting come from it, and when I release my work, I hope you’ll be pleased with the results. 🤞
 
+# Current Status
+
+## 2025-2-3
+
+**Taking a break:**
+
+I’ve hardly been productive this past week or so.
+
+Overall, it’s probably time for me to take a break from computers and all online activities in general, to renew my energy and refresh my thoughts. 
+
+While preparing for such, I’m looking for some topics to ponder. I'm considering historical examples of community building and perhaps social entrepreneurship. Which I thought I’d write some [miscellaneous notes]( COMMUNITY-BUILDING.md ) on based on what I’ve read in the past. Perhaps when I return I’ll turn it into something interesting. 
+
+- **FILE:** [COMMUNITY-BUILDING.md]( COMMUNITY-BUILDING.md ) — some little known history.
+
+**Regarding SuperSwiftMarkup:**
+
+With regard to the [SuperSwiftMarkup]( https://github.com/SuperSwiftMarkup ) projects, people have said they'd use this in their work if I develop it. But while its open to freeloaders I'm not developing it without some generosity. If you care about this work now is the time to **show some love via sponsoring the project**.
+
+All the best,
+
+Colbyn
 
 # Links
 
