@@ -4,6 +4,12 @@ I’m in an independent software researcher & writer who explores new ways of do
 
 As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot because everything I do is just too custom. Nowadays we forget that automation only applies to the most common of use cases, which for me is usually within the free tier. 
 
+---
+
+Honestly as a high octane thinker if I had kids I wouldn’t even want them to use LLMs unless I wanted to raise those with mentally inert mindsets that can only think in terms of corporate speak. 
+
+If anything I’d love to explore anti-AI themed startup opportunities one day.
+
 
 # Files
 - **[STATUS-LOG.md]( STATUS-LOG.md ):** my general timeline of activities.
