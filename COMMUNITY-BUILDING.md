@@ -2,7 +2,7 @@
 
 Overall, it’s probably time for me to take a break from computers and all online activities, to renew my energy and refresh my thoughts. 
 
-While preparing for such, I’m looking for some topics to ponder. I'm considering historical examples of community building and perhaps social entrepreneurship. Which I thought I’d write some miscellaneous notes on based on what I’ve read in the past. Perhaps when I return I’ll write up something interesting based on the following. 
+While preparing for such, I’m looking for some topics to ponder in my trip. I'm considering historical examples of community building and perhaps social entrepreneurship. Which I thought I’d write some miscellaneous notes on based on what I’ve read in the past. Perhaps when I return I’ll write up something interesting based on the following. 
 
 ---
 
