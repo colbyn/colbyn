@@ -8,7 +8,7 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
 
 Honestly as a high octane thinker if I had kids I wouldn’t even want them to use LLMs unless I wanted to raise those with mentally inert mindsets that can only think in terms of corporate speak. 
 
-If anything I’d love to explore anti-AI themed startup opportunities one day.
+If anything I’d love to explore anti-AI themed startup opportunities one day because it’d just be super ironic if such succeeded where all those success chasing startups failed. 
 
 
 # Files
