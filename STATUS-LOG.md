@@ -26,6 +26,8 @@
 
 ## From 2025 onwards 
 
+## From 2025-1-1
+
 ### [SuperSwiftMarkdownPrototype]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkdownPrototype )
 
 Initially the work began with a *proof-of-concept* prototype with the following aims: 
@@ -35,6 +37,8 @@ Initially the work began with a *proof-of-concept* prototype with the following 
     - Cross platform support for multiple cursors / selections. 
 - Implement all of the above without relying on macOS only APIs.
     - While the prototype was implemented in terms of AppKit APIs, the port to iOS should be relatively trivial. Especially since this project was itself based on an earlier codebase that was implemented in terms of UIKit and I have verified that the TextKit 2 functionality concerning text selections does indeed work on—at least—iOS 17 (which I honestly thought would be too good to be true lol). 
+
+## From 2025-2-1
 
 ### [SuperSwiftMarkup]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkup )
 
@@ -63,8 +67,6 @@ So keep in mind:
 **Overall I hope you’re excited as I am!** 
 
 Personally I, the author (Colbyn Wadman), have been messing around with miscellaneous problems concerning text processing and text rendering (in one form or another) for a very long time and—as far as the POC has demonstrated—it’s good to see something interesting come from it, and when I release my work, I hope you’ll be pleased with the results. 🤞
-
-# Current Status
 
 ## 2025-2-3
 
