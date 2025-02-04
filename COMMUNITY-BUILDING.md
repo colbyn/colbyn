@@ -20,6 +20,8 @@ Socially, his approach allowed younger monks to be trained, supported, and disci
 
 More broadly, the monastic model inspired by Pachomius played a crucial role in preserving classical knowledge during the early medieval period, especially in monasteries that copied and safeguarded ancient manuscripts. These institutions later became the foundation of Europe’s educational system. 
 
+Although in the end these institutions accumulated too much wealth while also becoming too much of a cool bro club so the protestants shut it down. 
+
 ---
 
 Overall, one of my biggest takeaway is how simple community building can create economically thriving and socially meaningful systems in otherwise stagnant or regressive environments with no upward mobility, and this all began from the work and traditions laid down by the desert hermits. 
