@@ -8,6 +8,9 @@ I can’t do everything but what I can do I do well.
 
 So far the highlight of my research (in order of coolness) has probably been publishing hand drawn notes as self contained webpages in a resolution independent manner (which began as a personal project that I’d love to finish one day), then my brute force image compression optimizer (long story), then my native (iOS/macOS)  markdown renderer that supports all GitHub Flavored Markdown block types with full text-selection support (with multi-cursor support) in terms of TextKit 2 APIs which overall is probably one of the more practical components I’ve worked on (every single iOS app with a chatbot feature needs this).
 
+> Also someone needs to make a markdown based spreadsheet app using my markdown rendering engine because such just seems superior to preexisting options. Contact me if you need someone to figure out how to freakin implement horizontally scrollable text fragments which I’d love to solve once and for all. 
+
+
 **In general:**
 
 As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot because everything I do is just too custom. Nowadays we forget that automation only applies to the most common of use cases, which for me is usually within the free tier. 
