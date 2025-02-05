@@ -49,7 +49,7 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
   Some of my thoughts thereto are inspired by the book Time-Space, Spiking Neural Networks and Brain-Inspired Artificial Intelligence.
   > “Everything exists and evolves within time–space and time–space is within everything, from a molecule to the universe. Understanding the complex relationship between time and space has been one of the biggest scientific challenges of all time.”
 
-  Which may be an understatement, this is the biggest scientific challenge of all time and it’s developed will not be via the scientific method but through the engineering method and so therefore a new generation of creative individuals are needed, trained to think in terms of problem solving heuristics. 
+  Which may be an understatement, this may be the greatest scientific challenge of all time and it’s developed will happen not be via the scientific method but through the engineering method and so therefore a new generation of creative individuals are needed, trained to think in terms of problem solving heuristics. 
 
   Just as in computability theory we know there exist problems that are unsolvable, and for such problems we put on our creative hat and think in terms of imperfect heuristics that can at least work in narrow spaces.
 
