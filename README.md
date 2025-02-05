@@ -10,7 +10,7 @@ So far the highlight of my research (in order of coolness) has probably been pub
 
 > Also someone needs to make a markdown based spreadsheet app using my native markdown rendering engine because such just seems superior to preexisting options in literally every conceivable manner possible including in terms of a native UI that just “feels right” and iOS users in particular (gotta love them ❤️) have been know to be super picky when it comes to text functionality (just ask the Flutter team.)
 >
-> Contact me if you need someone to figure out how to freakin implement horizontally scrollable text fragments which I’d love to solve once and for all. 
+> Contact me if you need someone to figure out how to freakin implement horizontally scrollable text layout fragments which I’d love to solve once and for all. 
 
 
 **In general:**
