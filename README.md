@@ -8,7 +8,9 @@ I can’t do everything but what I can do I do well.
 
 So far the highlight of my research (in order of coolness) has probably been publishing hand drawn notes as self contained webpages in a resolution independent manner (which began as a personal project that I’d love to finish one day), then my brute force image compression optimizer (long story), then my native (iOS/macOS)  markdown renderer that supports all GitHub Flavored Markdown block types with full text-selection support (with multi-cursor support) in terms of TextKit 2 APIs which overall is probably one of the more practical components I’ve worked on (every single iOS app with a chatbot feature needs this).
 
-> Also someone needs to make a markdown based spreadsheet app using my markdown rendering engine because such just seems superior to preexisting options. Contact me if you need someone to figure out how to freakin implement horizontally scrollable text fragments which I’d love to solve once and for all. 
+> Also someone needs to make a markdown based spreadsheet app using my native markdown rendering engine because such just seems superior to preexisting options in literally every conceivable manner possible including in terms of a native UI that just “feels right” and iOS users in particular (gotta love them ❤️) have been know to be super picky when it comes to text functionality (just ask the Flutter team.)
+>
+> Contact me if you need someone to figure out how to freakin implement horizontally scrollable text fragments which I’d love to solve once and for all. 
 
 
 **In general:**
