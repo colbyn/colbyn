@@ -33,6 +33,7 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 - **[VERY-PERSONAL-BIO.md]( STATUS-LOG.md ):** A more personal pre-2025 biographical status timeline (incomplete).
 - **[COMMUNITY-BUILDING.md]( COMMUNITY-BUILDING.md ):** random notes on something... I sometimes wonder if the *next big thing* as they say will turn out to be some form of social entrepreneurship… I’ve been looking for historical examples of primitive social entrepreneurship. The notes thereto is one such example.
 - **[QUOTES.md]( QUOTES.md ):** thought providing quotes on systems.
+- **[surviving-where-others-fail.md](surviving-where-others-fail.md)**: Surviving where others fail by following the way. Something I wish I knew when I was younger. Perhaps it’ll save you one day. 
 
 # Links
 
