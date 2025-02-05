@@ -1,10 +1,10 @@
 # About Me
 
-I’m in an independent software researcher & writer who explores new ways of doing things, while generally trying to find the best way of doing something, guided by some ineffable sense of elegance. 
+I’m in an independent software researcher & writer who explores new ways of doing things, while generally trying to find the best way of doing something, guided by some ineffable sense of elegance.
 
 ![cool UI]( images/subscript-ipad.jpg )
 
-**Regarding my research:**
+**Regarding my past research:**
 
 I can’t do everything but what I can do I do well.
 
@@ -18,7 +18,6 @@ So far the highlight of my research (in order of coolness) has probably been:
 > Also someone needs to make a markdown based spreadsheet app using my native markdown rendering engine because such just seems superior to preexisting options in literally every conceivable manner possible including in terms of a native UI that just “feels right” and iOS users in particular (gotta love them ❤️) have been know to be super picky when it comes to text functionality (just ask the Flutter team.)
 >
 > Contact me if you need someone to figure out how to freakin implement horizontally scrollable text layout fragments which I’d love to solve once and for all. 
-
 
 **In general:**
 
@@ -36,6 +35,22 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 - **[COMMUNITY-BUILDING.md]( COMMUNITY-BUILDING.md ):** random notes on something... I sometimes wonder if the *next big thing* as they say will turn out to be some form of social entrepreneurship… I’ve been looking for historical examples of primitive social entrepreneurship. The notes thereto is one such example.
 - **[QUOTES.md]( QUOTES.md ):** thought providing quotes on systems.
 - **[surviving-where-others-fail.md](surviving-where-others-fail.md)**: Surviving where others fail by following the way. Something I wish I knew when I was younger. Perhaps it’ll save you one day. 
+
+# Secret Ongoing Essays
+
+**In general these are not yet reading for public consumption.**
+
+- [The far-future of AI]( https://gist.github.com/colbyn/6aeeeecd1b321db179c7253c6437b356 ): discusses a future for AI that itself evolves with the progression of time.
+  
+  This is a short rough draft that contains many points, all of which I’d like to enumerate on in a series of articles sometime in the future.
+  
+  **IMO this is a true model for a ‘brain’ that will be the interface between humans and all digital/analog information.**
+
+  Some of my thoughts thereto are inspired by the book Time-Space, Spiking Neural Networks and Brain-Inspired Artificial Intelligence.
+  > “Everything exists and evolves within time–space and time–space is within everything, from a molecule to the universe. Understanding the complex relationship between time and space has been one of the biggest scientific challenges of all time.”
+
+  The current rough-draft of quite short, but it contains many points, all of which I’d like to enumerate on at length in a series of SubStack/Medium articles down the road. But more research is needed before I continue, including how I may best convey this to a general audience which my sources don’t accommodate.
+
 
 # Links
 
