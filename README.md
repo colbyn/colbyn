@@ -28,7 +28,6 @@ Honestly as a high octane thinker if I had kids I wouldn’t even want them to u
 
 If anything I’d love to explore anti-AI themed startup opportunities one day because it’d just be super ironic if such succeeded where all those success chasing startups failed. 
 
-
 # Files
 - **[STATUS-LOG.md]( STATUS-LOG.md ):** my general timeline of activities.
 - **[VERY-PERSONAL-BIO.md]( STATUS-LOG.md ):** A more personal pre-2025 biographical status timeline (incomplete).
@@ -44,3 +43,7 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 ## Contact
 
 - Email: hello@colbyn.com
+
+# Miscellaneous
+
+Apparently my notion of *discrete math* entails more than I had thought, notably topics I know nothing about. My introduction to such was from purely functional programming focused textbooks where this whole idea of numbers just weren’t a thing. I prefer a framework based on purely discrete symbols and structures and relations between such. Simple and easy.
