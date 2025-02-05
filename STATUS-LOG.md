@@ -74,12 +74,4 @@ Personally I, the author (Colbyn Wadman), have been messing around with miscella
 
 ## 2025-2-4
 
-In my experience, literally just spending time offline, away from computers and in nature is the best remedy to renew your energy and refresh the mind (and its perspectives.)
-
-For me the best way to keep the mind functioning optimally is to simply pay attention to signs of mental fatigue and then acting accordingly when such manifests.
-
-Which I suppose is obvious but it was definitely not so obvious to my younger self where the mentally was something along the lines of sacrificing my health and wellbeing for short term gains which ultimately derailed long term pursuits so paying attention to signs from the mind is most important.
-
-So personally I don’t have any daily heuristics that I live by. But after life punched me in the face a few times, I’ve definitely learned to value sustainability, such that it’s always best to take an immediate loss if it threatens the long term sustainability of your endeavors.
-
-For me I’m planning a trip right now down to the desert.
+[Reddit comment on keeping the mind healthy]( https://www.reddit.com/r/startups/comments/1ihh366/comment/mazjw2c/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button )
