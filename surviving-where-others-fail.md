@@ -5,7 +5,7 @@ Personally, while it’s not the most profound thing in the whole book, for me t
 
 I just find it interesting how in modern times you can have a head on collision with multiple fatalities and yet the inebriated driver usually walks away unscathed. 
 
-While in mundane life simply reacting to life’s woes can significantly cascade bad luck. For this reason I argue that it’s best to be less conscious of life’s woes as exemplified by the drunkard who is neither conscious of riding in the cart nor of falling out of it.
+While in mundane life simply reacting to life’s woes can significantly cascade bad luck. For this reason I argue that it’s best to be less conscious of life’s happenings as exemplified by the drunkard who is neither conscious of riding in the cart nor of falling out of it.
 
 Concerning the cascading of bad luck, in The Following of Christ,
 
