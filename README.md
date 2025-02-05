@@ -44,7 +44,7 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
   
   This is a short rough draft that contains many points, all of which I’d like to enumerate on in a series of articles sometime in the future.
 
-  **IMO this is a true model for a ‘brain’ that will be the interface between humans and all digital/analog information as it changes with the progression of time.** This is a true model for an assistant will be perpetually active, integrating the diverse array of signals from your data sources, into summary information available at your request, or actively engaging with you when conditions merit your attention.
+  **IMO this is a true model for a ‘brain’ that will be the interface between humans and all digital/analog information as it changes with the progression of time.** A true model for an assistant will be perpetually active, integrating the diverse array of signals from your data sources, into summary information available at your request, or actively engaging with you when conditions merit your attention.
 
   Some of my thoughts thereto are inspired by the book Time-Space, Spiking Neural Networks and Brain-Inspired Artificial Intelligence.
   > “Everything exists and evolves within time–space and time–space is within everything, from a molecule to the universe. Understanding the complex relationship between time and space has been one of the biggest scientific challenges of all time.”
