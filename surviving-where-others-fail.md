@@ -16,4 +16,4 @@ The sinner here is a very real story for me, and as one I argue that it’s best
 Likewise in the Tao Te Ching there’s a saying,
 > “Only those who do not cling to their life can save it.”
 
-Perhaps one day you’ll suddenly find yourself moments before a head on collision with a drunk driver on the highway. In that moment will you yourself cling to life—or will you submit to fate and follow the way? (i.e. the Dao)
+Perhaps one day you’ll suddenly find yourself moments before a head on collision with a drunk driver on the highway. In that moment will you yourself cling to life—or will you submit to fate and follow the way?
