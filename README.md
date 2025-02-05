@@ -1,6 +1,6 @@
 # About Me
 
-I’m in an independent software researcher & writer who explores new ways of doing things (for a price of course), while generally trying to find the best way of doing something, guided by some ineffable sense of elegance. 
+I’m in an independent software researcher & writer who explores new ways of doing things, while generally trying to find the best way of doing something, guided by some ineffable sense of elegance. 
 
 **Regarding my research:**
 
