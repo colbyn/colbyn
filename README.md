@@ -2,6 +2,8 @@
 
 I’m in an independent software researcher & writer who explores new ways of doing things, while generally trying to find the best way of doing something, guided by some ineffable sense of elegance. 
 
+![cool UI]( images/subscript-ipad.jpg )
+
 **Regarding my research:**
 
 I can’t do everything but what I can do I do well.
