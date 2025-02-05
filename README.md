@@ -43,14 +43,11 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 - [The far-future of AI]( https://gist.github.com/colbyn/6aeeeecd1b321db179c7253c6437b356 ): discusses a future for AI that itself evolves with the progression of time.
   
   This is a short rough draft that contains many points, all of which I’d like to enumerate on in a series of articles sometime in the future.
-  
-  **IMO this is a true model for a ‘brain’ that will be the interface between humans and all digital/analog information.**
+
+  **IMO this is a true model for a ‘brain’ that will be the interface between humans and all digital/analog information.** This is a true model for an assistant will be perpetually active, integrating the diverse array of signals from your data sources, into summary information available at your request, or actively engaging with you when conditions merit your attention.
 
   Some of my thoughts thereto are inspired by the book Time-Space, Spiking Neural Networks and Brain-Inspired Artificial Intelligence.
   > “Everything exists and evolves within time–space and time–space is within everything, from a molecule to the universe. Understanding the complex relationship between time and space has been one of the biggest scientific challenges of all time.”
-
-  The current rough-draft of quite short, but it contains many points, all of which I’d like to enumerate on at length in a series of SubStack/Medium articles down the road. But more research is needed before I continue, including how I may best convey this to a general audience which my sources don’t accommodate.
-
 
 # Links
 
