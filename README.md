@@ -14,6 +14,8 @@ This is the value I bring to the table. If your problem is something akin to bei
 
 (Personally, the phenomena of independent software startups that arise “outta the blue” is a direct result of the limits of forethought, and in a perfect world such will eventually be superseded by better organized think tanks composed of software researchers—guided by some higher sense of elegance and beauty—working in a system that’s better adept at translating ideas into products in a manner that overcomes the hard limits of forethought—which just seems more efficient overall but I suppose the market knows best…)
 
+As every Haskell zealot knows all too well: **avoid success at all costs!** Or in other words don't chase success.
+
 ---
 
 **Regarding my past research:**
