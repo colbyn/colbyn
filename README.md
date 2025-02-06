@@ -4,8 +4,6 @@ I’m in an independent software researcher & writer who explores new ways of do
 
 ![cool UI]( images/subscript-ipad.jpg )
 
----
-
 As a software researcher, while every idea must begin somewhere, I understand very well the **limits of forethought**. 
 
 For instance consider the field of computability theory, with regard to formal verification specifically, it is well known that there are hard limits on what one can ‘know’ upfront with regard to any given program description, such that the only way to “know” such a thing that is mathematically impossible to infer upfront is to actually “run it”. 
@@ -14,6 +12,7 @@ This is why my personal preference, with regard to finding new ways of doing thi
 
 This is the value I bring to the table. If your problem is something akin to being Turing complete and you’ve hit a “brick wall” with regard to the limits of forethought, I will come in and *compute* the problem to completion.
 
+---
 
 **Regarding my past research:**
 
