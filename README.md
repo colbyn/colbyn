@@ -12,7 +12,7 @@ This is why my personal preference, with regard to finding new ways of doing thi
 
 This is the value I bring to the table. If your problem is something akin to being Turing complete and you’ve hit a “brick wall” with regard to the limits of forethought, I will come in and *compute* the problem to completion.
 
-(Personally, the phenomena of independent software startups that arise “outta the blue” is a direct result of the limits of forethought, and in a perfect world such will eventually be superseded by better organized think tanks composed of software researchers working in a system that’s better adept at translating ideas into products in a manner that overcomes the hard limits of forethought—which just seems more efficient overall but I suppose the market knows best…)
+(Personally, the phenomena of independent software startups that arise “outta the blue” is a direct result of the limits of forethought, and in a perfect world such will eventually be superseded by better organized think tanks composed of software researchers—guided by some higher sense of elegance and beauty—working in a system that’s better adept at translating ideas into products in a manner that overcomes the hard limits of forethought—which just seems more efficient overall but I suppose the market knows best…)
 
 ---
 
