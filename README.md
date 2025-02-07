@@ -8,7 +8,7 @@ As a software researcher, while every idea must begin somewhere, I understand ve
 
 For instance consider the field of computability theory—specifically with regard to formal verification—it is well known that there are hard limits on what one can ‘know’ upfront, and if you’re looking for insights concerning some Turing complete program description (such as a business model), then your only recourse is simple program evaluation.
 
-This is the value I bring to the table, and is why my research style is very ‘evaluative’ and in an ‘exploratory’ manner. If your problem can’t be known upfront (such as those questions that are mathematically impossible to answer without some degree of evaluation), I will come in and *compute* the problem to completion.
+This is the value I bring to the table, and is why my research style is very ‘evaluative’ and in an ‘exploratory’ manner. If your answer can’t be known upfront (such as those questions that are mathematically impossible to answer without some degree of evaluation), I will come in and *compute* the problem to completion.
 
 (Personally, the phenomena of independent software startups that arise “outta the blue” is a direct result of the limits of forethought, and in a perfect world such will eventually be superseded by better organized think tanks composed of software researchers—guided by some higher sense of elegance and beauty—working in a system that’s better adept at translating ideas into products in a manner that overcomes the hard limits of forethought—which just seems more efficient overall but I suppose the market knows best…)
 
