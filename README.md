@@ -10,7 +10,7 @@ For instance consider the field of computability theory, it is well known that t
 
 > Nowadays while some programmers are trying to put all other programmers outta a job, some mathematicians have been trying to put all other mathematicians outta a job for at least a century.
 
-This is the value I bring to the table, and is why my research style is very ‘evaluative’ and in an ‘exploratory’ manner. If your looking for an answer (such as those concerning a business model) that can’t be known upfront, then I will come in and *compute* the problem to completion, then report back on what insights such has yielded.
+This is the value I bring to the table, and is why my research style is very ‘evaluative’ and in an ‘exploratory’ manner. If you’re looking for those game-changer insights that cannot be known upfront (such as those concerning a business model), then I will come in and *compute* the problem to completion, and then report back on what has been uncovered along with any speculative advisory foresights from a refined context.
 
 Also, as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** Or in other words don't chase success. (Although this remark may also just be cope in the Haskell community.)
 
