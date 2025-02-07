@@ -12,8 +12,6 @@ For instance consider the field of computability theory, it is well known that t
 
 This is the value I bring to the table, and is why my research style is very ‘evaluative’ and in an ‘exploratory’ manner. If your looking for an answer (such as those concerning a business model) that can’t be known upfront, then I will come in and *compute* the problem to completion.
 
-(Personally, the phenomena of independent software startups that arise “outta the blue” is a direct result of the limits of forethought, and in a perfect world such will eventually be superseded by better organized think tanks composed of software researchers—guided by some higher sense of elegance and beauty—working in a system that’s better adept at translating ideas into products in a manner that overcomes the hard limits of forethought—which just seems more efficient overall but I suppose the market knows best…)
-
 Also, as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** Or in other words don't chase success. (Although this remark may also just be cope in the Haskell community.)
 
 ---
