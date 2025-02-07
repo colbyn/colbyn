@@ -16,7 +16,7 @@ Also, as every Haskell zealot knows all too well when it comes to research: **av
 
 **Note:** **with regard to source code ownership rights, such can be negotiated.**
 
-> I usually standardize on rust because it’s the lowest common denominator solution in a multitude of respects, for instance I can compile rust for a multitude of platforms, along with great community support for a multitude of use cases. In general, rust isn’t perfect but it’s works. Unless there’s a strong justification elsewhere, such as if I’m doing native UI work for which idiomatic Swift is preferred unless there’s a strong justification for rust as a cross platform app logic layer.
+> I usually standardize on rust because it’s the lowest common denominator solution in a multitude of respects, for instance I can compile rust for a multitude of platforms, along with great community support for a multitude of use cases. In general, rust isn’t perfect but it’s works (especially for data modeling and serialization which is often overlooked). Unless there’s a strong justification elsewhere, such as if I’m doing native UI work for which idiomatic Swift is preferred unless there’s a strong justification for rust as a cross platform app logic layer.
 
 ---
 
