@@ -6,7 +6,7 @@ Some time ago I came across this book called A Canticle For Leibowitz which port
 
 I was just browsing random books but intrigued by the whole setting I found myself skimming through this book on the history of Christian monasticism, and in a way I really resonated with this man called Saint Pachomius the Great and his legacy, considered to be the patron saint of community building for his role in organizing the desert hermits who sought to emulate Jesus’ time in the wilderness into a productive social movement after (according to tradition) an angle appeared to him and said,
 
-“Do not live alone like the hermits before you, but gather together the young monks and establish a community for them.”
+> **“Do not live alone like the hermits before you, but gather together the young monks and establish a community for them.”**
 
 Partly because a desert hermitage is not for the weak. But to this end, Pachomius didn’t just gather the monks (many of whom weren’t necessarily young though many of the old monks didn’t see the point of the endeavor), he built and organized a monastic “company” from scratch, including a kind of economic model to sustain the mission. His approach was highly structured and innovative for its time, resembling what we might call an **early form of social entrepreneurship**.
 
