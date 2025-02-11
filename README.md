@@ -82,7 +82,7 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 
 - Email: hello@colbyn.com
 
-# Miscellaneous
+# Clarifications
 
 Apparently my notion of *discrete math* entails more than I had thought, notably topics I know nothing about. My introduction to such was from purely functional programming focused textbooks (i.e. what’s expressible in terms of a simple lambda calculus based model of computation) where this whole idea of numbers just weren’t a thing. I prefer a framework based on purely discrete symbols and structures and relations between such. Simple and easy (the way god intended if anything.)
 
