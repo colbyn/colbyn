@@ -96,7 +96,7 @@ I don’t know why but I find this interesting.
 
 From historical precedence,
 
-Haskell would not be what it is today without the hard and never before seen constraint of lazy evaluation. 
+Haskell would not be what it is today without the hard and never before seen constraint of lazy evaluation. Just to emphasize the point, nowadays lazy evaluation is considered to be a design mistake, but it shaped all other aspects in such a way that made it was it is today and therefore it was a worthwhile design mistake.
 
 More generally,
 
