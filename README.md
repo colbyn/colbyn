@@ -100,7 +100,7 @@ Haskell would not be what it is today without the hard and never before seen con
 
 More generally,
 
-It is well known that a harder problems yield more satisfactory results. 
+It is well known that harder problems yield more satisfactory results. 
 
 From a software research perspective, projects need hard and technically challenging constraints to innovate and make something new. 
 
