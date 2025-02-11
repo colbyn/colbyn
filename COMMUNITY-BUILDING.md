@@ -78,3 +78,9 @@ I just don’t know if there’s any hope for a better system of lifelong, geopo
 
 Maybe my focus should be simply getting rich by whatever means. So afterwards I’ll have money to throw around to experiment with alternative models that achieve my desired goals.
 
+---
+
+**Closing remarks,** 
+
+I think it’s interesting that the guy who’s considered to be the patron Saint of community building converted to Christianity after experiencing simple humanity from the Christians (in his life as a roman soldier). Looking back on my own life, it seems like those few who showed any kindness with regard to me were themselves Christian, and after Pachomius’ own story I was like, I don’t know any which way but I may as well identify as Christian myself to honor their small acts of kindness. (Sorry Bertrand Russell.)
+
