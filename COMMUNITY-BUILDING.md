@@ -88,7 +88,7 @@ I think it’s interesting that the guy who’s considered to be the patron Sain
 
 **I don’t agree with the official definition of social entrepreneurship.** If there’s no historical examples of such from history (and especially before the Industrial Revolution) then it’s a contrived idea. 
 
-Perhaps this is why I’ve been so fixated on this idea as inspired by Pachomius.
+Although at the same time I suppose there’s a first for everything. Perhaps this is why I’ve been so fixated on this idea as inspired by Pachomius.
 
 Although the situation for better local communities does seem hopeless because ultimately everyone would rather be like the desert hermits, all too content in their simple ways.
 
