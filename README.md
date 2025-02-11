@@ -106,7 +106,7 @@ From a software research perspective, projects need hard and technically challen
 
 So,
 
-Perhaps this could be the defining constraint that makes the [redacted] what it is and not just another copycat. 
+Perhaps this could be the defining constraint that makes [redacted] what it is and not just another copycat. 
 
 But,
 
