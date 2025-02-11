@@ -93,4 +93,5 @@ Perhaps this is why I’ve been so fixated on this idea as inspired by Pachomius
 Although the situation for better local communities does seem hopeless because ultimately everyone would rather be like the desert hermits, all too content in their simple ways.
 
 Maybe this is why I’ve been thinking quite a lot about the meaning of this idea that we all get what we tolerate in life. Perhaps if the situation is truly hopeless then the only thing that matters is picking the right hill to die on. 
- 
+
+After all there’s no predicting fate, fortune changes with the wind, and so you may as well pick a principle good or bad because there’s no guarantee any which way and furthermore the whole of life is just too complicated to be so conscious of everything. This is why I prefer to be less conscious in my consciousness. It’s simulated of a sort. Simulated primacy perhaps by means of principle. (I’ll have more to say about my developing idea of simulated primacy elsewhere.)
