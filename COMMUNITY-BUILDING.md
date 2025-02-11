@@ -84,3 +84,13 @@ Maybe my focus should be simply getting rich by whatever means. So afterwards I�
 
 I think it’s interesting that the guy who’s considered to be the patron Saint of community building converted to Christianity after experiencing simple humanity from the Christians (in his life as a roman soldier). Looking back on my own life, it seems like those few who showed any kindness with regard to me were themselves Christian, and after Pachomius’ own story I was like, I don’t know any which way but I may as well identify as Christian myself to honor their small acts of kindness. (Sorry Bertrand Russell.)
 
+**PS** 
+
+**I don’t agree with the official definition of social entrepreneurship.** If there’s no historical examples of such from history (and especially before the Industrial Revolution) then it’s a contrived idea. 
+
+Perhaps this is why I’ve been so fixated on this idea as inspired by Pachomius.
+
+Although the situation for better local communities does seem hopeless because ultimately everyone would rather be like the desert hermits, all too content in their simple ways.
+
+Maybe this is why I’ve been thinking quite a lot about the meaning of this idea that we all get what we tolerate in life. Perhaps if the situation is truly hopeless then the only thing that matters is picking the right hill to die on. 
+ 
