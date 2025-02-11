@@ -22,6 +22,8 @@ Overall, one of my biggest takeaway is how simple community building can create 
 
 ---
 
+# More Generally
+
 Personally, I really resonated this form of communities as institutions. 
 
 Nowadays, everyone talks about community building, but what do they mean? 
