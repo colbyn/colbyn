@@ -18,6 +18,8 @@ Also, as every Haskell zealot knows all too well when it comes to research: **av
 
 > I usually standardize on rust because it’s the lowest common denominator solution in a multitude of respects, for instance I can compile (and even cross-compile depending on my dependencies) rust code for a multitude of platforms, along with great community support for a multitude of use cases. In general, rust isn’t perfect but it **just works** in numerous respects (especially for data modeling and serialization which is often overlooked). Unless there’s a strong justification elsewhere, such as if I’m doing native iOS/macOS UI work for which idiomatic Swift is preferred throughout unless there’s a strong justification for rust with regard to app logic functionality (such as to support cross-platform app logic or if I just need to plug into some rust crate.)
 
+Also, 
+
 ---
 
 **Regarding my past research:**
@@ -83,3 +85,30 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 # Miscellaneous
 
 Apparently my notion of *discrete math* entails more than I had thought, notably topics I know nothing about. My introduction to such was from purely functional programming focused textbooks (i.e. what’s expressible in terms of a simple lambda calculus based model of computation) where this whole idea of numbers just weren’t a thing. I prefer a framework based on purely discrete symbols and structures and relations between such. Simple and easy (the way god intended if anything.)
+
+# Random Note
+
+As a software researcher, half the problem is choosing your constraints wisely. Ultimately, projects need hard constraints to succeed (and not just be another copycat.)
+
+For instance i’ve been thinking about this problem. In a way I am serious about [redacted]. But how could this be done?
+
+I don’t know why but I find this interesting. 
+
+From historical precedence,
+
+Haskell would not be what it is today without the hard and never before seen constraint of lazy evaluation. 
+
+More generally,
+
+It is well known that a harder problems yield more satisfactory results. 
+
+From a software research perspective, projects need hard and technically challenging constraints to innovate and make something new. 
+
+So,
+
+Perhaps this could be the defining constraint that makes the [redacted] what it is and not just another copycat. 
+
+But,
+
+Another problem of the software researcher concerns generality or specificity. For instance should ‘X’ be implemented ad-hoc or in a uniform manner? Typically greater uniformity is best and most elegant but requires more research to find the lowest common denominator approach. Although more practically, greater uniformity generally ensures support for things that don’t neatly fit into predefined categories.
+
