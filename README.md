@@ -113,3 +113,7 @@ But,
 Another problem of the software researcher concerns generality or specificity. For instance should ‘X’ be implemented ad-hoc or in a uniform manner? Typically greater uniformity is best and most elegant but requires more research to find the lowest common denominator approach. Although more practically, greater uniformity generally ensures support for things that don’t neatly fit into predefined categories.
 
 Similarly concerning generality or specificity, is the question of parameterization or polymorphous systems. Such as a system that is agnostic to certain aspects that normally define such a system ad-hoc. How many systems out there can only work with a single implementation of something? Greater uniformly is generally most forward compatible as the landscape evolves and in turn as environmental perturbations change.
+
+Likewise on a tangent, 
+
+Greater uniformity facilitates greater diversity within a whole system, and after all in ecology is it well understood that diversity increases productivity and stability because species vary in their response to environmental fluctuations, ensuring that some will always maintain system function.
