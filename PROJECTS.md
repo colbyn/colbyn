@@ -573,6 +573,8 @@ PrettyTree is a Swift library designed to render trees in a neatly formatted tex
 **With full text selection support:**
 ![example](images/SuperSwiftMarkdownPrototype/tables-selection-preview.png)
 
+> **Unlike the ChatGPT iOS app.**
+
 **Also while it’s not pretty, I thought this was interesting:**
 ![example](images/ssm-table-cursor-example.gif)
 
