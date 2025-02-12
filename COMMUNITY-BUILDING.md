@@ -122,3 +122,19 @@ Moving forward with these notes,
 
 The university model replaced monastic societies, and just as such rose such may in turn be replaceable with a better model, one better adapted and better suited to the problems of our time. Perhaps one just has to be the first to think of a viable model for one ecological niche, that can then spread, subsuming the traditional functions of the university system for all but the most academic of roles. The long term effects of which may be something akin to purifying the university system just as the Protestants purified monastic societies (though it made them quite boring in the sense that they lost all cultural relevance in society at large.)
 
+# TODO — Future Essay 
+
+Let’s consider the techno centric ideal of disputing industries but here with regard to the system that disrupted the role once held by monastic societies. 
+
+Something I’ve noticed about the private sector is that they absolutely don’t want to build people up in such a way that they better accommodate the demands of their employers. Instead they only want to work with those who already meet their expectations. I suppose it makes sense, they’re forced to operate efficiently and training and the like expends resources. 
+
+So the university system fills a need by employers. But to this end, the university system may have become corrupted. Similarly, the monastic system was corrupt when they served practical roles in society. It’s almost as if there’s a pattern, and whatnot the factor is itself needs to be factored out into its own, better accommodating context and so let the university system return to just the most academic of roles in society. 
+
+Because whatever practical roles the modern university system fills in society necessarily entails a commercially viable and self sustainable model for the private sector to accommodate. 
+
+Therefore all aspects of the university system pertaining to all but the most academic of roles must be allowed to fail.
+
+So that the techno centric ideal of disputing industries can be made viable with regard to such institutions too. 
+
+Ultimately if no solution is found then those aspects of the private sector that depend on university trained talent must be allowed to fail too. 
+
