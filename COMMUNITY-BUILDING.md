@@ -124,6 +124,10 @@ The university model replaced monastic societies, and just as such rose such may
 
 # TODO — Future Essay 
 
+It’s interesting to think about just how much the rest of the world has copied the west’s system of higher education… Meanwhile here in the west—or at least the part that still matters—it’s like, is this the kinda system we want to keep going?
+
+Honestly, it’s great public and personal expense and for what? So that stupid office job can have access to an over-optimized talent pool?
+
 Let’s consider the techno centric ideal of disputing industries but here with regard to the system that disrupted the role once held by monastic societies. 
 
 Something I’ve noticed about the private sector is that they absolutely don’t want to build people up in such a way that they better accommodate the demands of their employers. Instead they only want to work with those who already meet their expectations. I suppose it makes sense, they’re forced to operate efficiently and training and the like expends resources. 
