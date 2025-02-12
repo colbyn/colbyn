@@ -136,5 +136,5 @@ Therefore all aspects of the university system pertaining to all but the most ac
 
 So that the techno centric ideal of disputing industries can be made viable with regard to such institutions too. 
 
-Ultimately if no solution is found then those aspects of the private sector that depend on university trained talent must be allowed to fail too so someone else can figure it out. 
+Ultimately if no solution is found then those aspects of the private sector that depend on university trained talent must be allowed to fail too so someone else can figure it out in a more whole manner.
 
