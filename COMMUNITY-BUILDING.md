@@ -120,5 +120,5 @@ They say,
 
 Moving forward with these notes,
 
-The university model replaced monastic societies, and just as such rose such may in turn be replaceable with a better model, one better adapted and better suited to the problems of our time. Perhaps one just has to be the first to think of a viable model for one ecological niche, that can then spread, subsuming the traditional roles of the university system for all but the most academic of roles.
+The university model replaced monastic societies, and just as such rose such may in turn be replaceable with a better model, one better adapted and better suited to the problems of our time. Perhaps one just has to be the first to think of a viable model for one ecological niche, that can then spread, subsuming the traditional roles of the university system for all but the most academic of roles. Perhaps in a sense, purifying the university system just as the Protestants purified monastic societies (though it made them quite boring.)
 
