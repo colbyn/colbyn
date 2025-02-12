@@ -98,7 +98,7 @@ Maybe this is why I’ve been thinking quite a lot about the meaning of this ide
 
 One topic I’ve been thinking about is that nowadays it’s not enough to be the best in local terms when the standard is globally defined and furthermore even when global significance is attained its ultimately not sustainable because there’s always a fresh generation of talent coming up the ranks (although nowadays younger generations aren’t known for being all that socially adept which diminishes sheer talent). Such that any organization based on local talent would struggle to compete with the global standard of such ruthless efficiency. But for me as a programmer, such is akin to low-level optimization details where higher level algorithmic efficiency is typically far more significant. In the case of sheer talent, those who are more organized and more efficiently organized will always outcompete those who are far less organized or organized in a far less efficient manner. 
 
-> (Although on a tangent regarding younger generations, the American mindset isn’t all that fond of managers nowadays but from the perspective of outside observers, in the 1970’s or somewhere thereabout many Chinese thinkers who came to America to observe our way of life, later credited America’s managerial skills as one of our defining characteristics that made us succeed. Perhaps systems can be made that overcomes the problems of younger generations.)
+> (Although on a tangent regarding younger generations, the American mindset isn’t all that fond of managers nowadays but from the perspective of outside observers, in the 1970’s or somewhere thereabout (date uncertain—too lazy to look up it) many Chinese thinkers who came to America to observe our way of life, later credited America’s managerial skills as one of our defining characteristics that made us succeed. Perhaps systems can be made that overcomes the problems of younger generations.)
 >
 > (Also interestedly, I swear there was something in one such report about how culture will be our downfall. LOL Perhaps the solution will be something akin to what the romans did—who had no culture of their own.)
 
@@ -109,4 +109,8 @@ After all some men are of the mindset: **“avoid success at all costs!”**
 Imagine someone build a self sustaining community of zealots and only zealots can discern good talent when they see it because they see it in themselves. In this case, the best of the talent pool comes to them inspired by their higher ideals and during times of crisis they may even stay within the organization because they are zealots and in this manner these organizations may rise where the others vanish from history because as they say the edge of chaos is the realm of maximum adaptability—where only zealots can linger because they are zealots—and in this manner new opportunities may be found and perhaps to the extent that whole new ecological niches can be created. 
 
 Ultimately, someone should organize the zealots because zealots are best in an organized community. 
+
+But I digress.
+
+Moving forward with these notes, the university model replaced monastic societies, perhaps there may be a viable model to replace academic societies and universities as a whole but one that better addresses the problems of our times. Perhaps one just has to be the first to think of a viable model for one ecological niche, that can then spread.
 
