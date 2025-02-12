@@ -112,5 +112,7 @@ Ultimately, someone should organize the zealots because zealots are best in an o
 
 But I digress.
 
+---
+
 Moving forward with these notes, the university model replaced monastic societies, perhaps there may be a viable model to replace academic societies and universities as a whole but one that better addresses the problems of our times. Perhaps one just has to be the first to think of a viable model for one ecological niche, that can then spread.
 
