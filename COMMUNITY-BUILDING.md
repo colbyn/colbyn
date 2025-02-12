@@ -94,3 +94,15 @@ Although the situation for better local communities does seem hopeless because u
 
 Maybe this is why I’ve been thinking quite a lot about the meaning of this idea that we all get what we tolerate in life. Perhaps if the situation is truly hopeless then the only thing that matters is picking the right hill to die on. After all there’s no predicting fate, fortune changes with the wind, and so you may as well pick a principle good or bad because there’s no guarantee any which way and furthermore the whole of life is just too complicated to be so conscious of everything. This is why I prefer to be less conscious in my consciousness to avoid the follies of bad life optimizing heuristics because ultimately the best of which may be those that aren’t so flimsy. It’s simulated of a sort. Simulated primacy perhaps by means of principle. (I’ll have more to say about my developing idea of simulated primacy elsewhere.) 
 
+**PPS**
+
+One topic I’ve been thinking about is that nowadays it’s not enough to be the best in local terms when the standard is globally defined and furthermore even when global significance is attained its ultimately not sustainable because there’s always a fresh generation of talent coming up the ranks. Such that any organization based on local talent would struggle to compete with the global standard of such ruthless efficiency. But for me as a programmer, such is akin to low-level optimization details where higher level algorithmic efficiency is typically far more significant. In the case of sheer talent, those who are more organized and more efficiently organized will always outcompete those who are far less organized or organized in a far less efficient manner. 
+
+But maybe such needn’t be the picture. 
+
+After all some men are of the mindset: **“avoid success at all costs!”**
+
+Imagine someone build a self sustaining community of zealots and only zealots can discern good talent when they see it because they see it in themselves. In this case, the best of the talent pool comes to them inspired by their higher ideals and during times of crisis they may even stay within the organization because they are zealots and in this manner these organizations may rise where the others vanish from history because as they say the edge of chaos is the realm of maximum adaptability—where only zealots can linger because they are zealots—and in this manner new opportunities may be found and perhaps to the extent that whole new ecological niches can be created. 
+
+Ultimately, someone should organize the zealots because zealots are best in an organized community. 
+
