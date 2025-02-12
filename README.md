@@ -48,6 +48,8 @@ Honestly as a high octane thinker if I had kids I wouldn’t even want them to u
 If anything I’d love to explore anti-AI themed startup opportunities one day because it’d just be super ironic if such succeeded where all those success chasing startups failed. 
 
 # Files
+
+- **[PROJECTS.md](PROJECTS.md):** A mega overview of all my major projects. The culmination of my life.
 - **[STATUS-LOG.md]( STATUS-LOG.md ):** my general timeline of activities.
 - **[VERY-PERSONAL-BIO.md]( STATUS-LOG.md ):** A more personal pre-2025 biographical status timeline (incomplete).
 - **[COMMUNITY-BUILDING.md]( COMMUNITY-BUILDING.md ):** random notes on something...
