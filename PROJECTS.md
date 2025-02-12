@@ -565,6 +565,19 @@ Pretty Tree Printing (Helpful For Debugging Compilers)
 
 PrettyTree is a Swift library designed to render trees in a neatly formatted text representation. It supports rendering complex tree structures with labels, values, nested arrays, and custom data types, making it ideal for debugging or visualizing hierarchical data.
 
+## ChatGPT Compiled Dictionaries 
+
+**Not Open Source.**
+
+Experiments in compiling dictionaries, phrasebooks, and the like for language learning apps.
+
+![example-1.PNG](images/3in1-spanish/example-1.PNG)
+![example-2.jpeg](images/3in1-spanish/example-2.jpeg)
+![example-3.PNG](images/3in1-spanish/example-3.PNG)
+
+Tons of linguistic details. 
+
+Used my background as an amateur compiler engineer to build a sophisticated pipeline that can produce massive datasets from LLM generated entries.
 
 # 2025
 
