@@ -54,7 +54,7 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
   
   I sometimes wonder if the *next big thing* as they say will turn out to be some form of social entrepreneurship… I’ve been looking for historical examples of primitive social entrepreneurship. The notes thereto is one such example.
   
-  **Last Updated:** 2025-2-11
+  **Last Updated:** 2025-2-12
 - **[QUOTES.md]( QUOTES.md ):** thought providing quotes on systems.
 - **[surviving-where-others-fail.md](surviving-where-others-fail.md)**: Surviving where others fail by following the way. Something I wish I knew when I was younger. Perhaps it’ll save you one day. 
 
