@@ -4,12 +4,39 @@
 
 An Elm to Rust compiler implemented in Haskell. 
 
-## [colbyn/commands](https://github.com/colbyn/commands): A convenient tool for building upon and referencing existing cli tools via a bash dialect.
+## [colbyn/commands](https://github.com/colbyn/commands)
 
-> Just some simple and convenience tool, where something like make isn’t required.
+**A convenient tool for building upon and referencing existing cli tools via a bash dialect.**
+
+Overall, just some simple and convenience tool, where something like make isn’t required.
 
 ![example](images/commands-example.gif)
 
+### This tool has some pretty cool ideas
+
+**Indentation sensitive parser:**
+```
+aws cloudformation deploy
+    --template-file $(pwd)/aws-infrastructure.yaml
+    --stack-name ...
+    --s3-bucket ...
+    --capabilities CAPABILITY_IAM CAPABILITY_NAMED_IAM
+```
+
+**Functions:**
+```
+from ./backend/services do
+  stack build
+  stack exec provision-db
+```
+
+**Multiline Strings:**
+```
+psql -d services -tc
+  """
+  CREATE EXTENSION IF NOT EXISTS "uuid-ossp"
+  """
+```
 
 **A perfect example featuring the aws cli (i.e. because tool is incredibly VERBOSE):**
 ```
