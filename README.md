@@ -130,6 +130,6 @@ I whole heartedly I believe that honesty is always best in any scenario, especia
 
 ![function-graph](images/function-graph.jpg)
 
-No politician can change the nature of the system with better propaganda; if the people want change then the reality of going to point A to point B must be made clear to the public, such is the only sustainable way or otherwise the public will fee as though the movement is a scam. 
+No politician can change the nature of the system with better propaganda; if the people want change then the reality of going from point A to point B must be made clear to the public, such is the only sustainable way or otherwise the public will fee as though the movement is a scam. 
 
 But reality is never so certain as the graph above, those on the left should pray that a solution is found by the other party, because what benefits may come of it are to their benefit as well (in numerous respects) while the risk of such endeavors is wholly assumed by the other side. It just makes sense. 
