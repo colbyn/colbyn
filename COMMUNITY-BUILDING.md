@@ -100,7 +100,7 @@ One topic I’ve been thinking about is that nowadays it’s not enough to be th
 
 > (Although on a tangent regarding younger generations, the American mindset isn’t all that fond of managers nowadays but from the perspective of outside observers, in the 1970’s or somewhere thereabout (date uncertain—too lazy to look up it) many Chinese thinkers who came to America to observe our way of life, later credited America’s managerial skills as one of our defining characteristics that made us succeed. Perhaps systems can be made that overcomes the problems of younger generations.)
 >
-> (Also interestedly, I swear there was something in one such report about how culture will be our downfall. LOL Perhaps the solution will be something akin to what the romans did—who had no culture of their own.)
+> (Also interestedly, I swear there was something in one such report about how culture will be our downfall. LOL. Perhaps the solution will be something akin to what the romans did—who had no culture of their own.)
 
 But maybe such needn’t be the picture. 
 
