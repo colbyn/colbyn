@@ -560,8 +560,18 @@ PrettyTree is a Swift library designed to render trees in a neatly formatted tex
 
 ## [SuperSwiftMarkdownPrototype]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkdownPrototype )
 
+**A proof of concept native markdown renderer for macOS/iOS.**
+
 ![example](images/SuperSwiftMarkdownPrototype/screenshot-1.png)
 ![example](images/SuperSwiftMarkdownPrototype/screenshot-2.png)
+![example](images/SuperSwiftMarkdownPrototype/screenshot-3.png)
+![example](images/SuperSwiftMarkdownPrototype/screenshot-4.png)
+
+**Supports Freakin Markdown Tables!**
+![example](images/SuperSwiftMarkdownPrototype/tables-preview.png)
+
+**With full text selection support:**
+![example](images/SuperSwiftMarkdownPrototype/tables-selection-preview.png)
 
 **Also while it’s not pretty, I thought this was interesting:**
 ![example](images/ssm-table-cursor-example.gif)
