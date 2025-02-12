@@ -130,7 +130,7 @@ Honestly, it’s great public and personal expense and for what? So that stupid 
 
 Certainly too, the slow university system is not known for keeping up with the times, from IT to new media. 
 
-Let’s consider the techno centric ideal of disputing industries but here with regard to the system that disrupted the role once held by monastic societies. 
+Let’s consider the techno centric ideal of disrupting industries but here with regard to the system that disrupted the role once held by monastic societies. 
 
 Something I’ve noticed about the private sector is that they absolutely don’t want to build people up in such a way that they better accommodate the demands of their employers. Instead they only want to work with those who already meet their expectations. I suppose it makes sense, they’re forced to operate efficiently and training and the like expends resources. 
 
@@ -140,7 +140,7 @@ Because whatever practical roles the modern university system fills in society n
 
 Therefore all aspects of the university system pertaining to all but the most academic of roles must be allowed to fail.
 
-So that the techno centric ideal of disputing industries can be made viable with regard to such institutions too. 
+So that the techno centric ideal of disrupting industries can be made viable with regard to such institutions too. 
 
 Ultimately if no solution is found then those aspects of the private sector that depend on university trained talent must be allowed to fail too so someone else can figure it out in a more whole manner.
 
