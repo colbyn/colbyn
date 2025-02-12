@@ -508,9 +508,11 @@ Regarding the pen list:
 
 # 2023
 
-## [colbyn/punk-lang] ( https://github.com/colbyn/punk-lang )
+## [colbyn/punk-lang]( https://github.com/colbyn/punk-lang )
 
 An experimental LaTeX like language with syntax highlighting support. 
+
+**Features support for colorized nodes based on nesting depth:**
 
 ![example 1]( images/PunkTextEditor-2023.png )
 ![example 2]( images/PunkTextEditor-2023-alt.png )
