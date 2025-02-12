@@ -517,6 +517,13 @@ An experimental LaTeX like language with syntax highlighting support.
 ![example 1]( images/PunkTextEditor-2023.png )
 ![example 2]( images/PunkTextEditor-2023-alt.png )
 
+## SubScript Remake 
+
+A greatly improved macOS/iOS UI.
+
+![example](images/subscript-remake/example-1.JPG)
+![example](images/subscript-remake/example-2.JPG)
+
 # 2024
 
 ## [colbyn/MonadoParser](https://github.com/colbyn/MonadoParser)
