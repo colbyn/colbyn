@@ -521,7 +521,10 @@ An experimental LaTeX like language with syntax highlighting support.
 
 A greatly improved macOS/iOS UI.
 
+**Editor:**
 ![example](images/subscript-remake/example-1.JPG)
+
+**Web/HTML Presentation:**
 ![example](images/subscript-remake/example-2.JPG)
 
 # 2024
