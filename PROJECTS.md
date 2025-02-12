@@ -97,6 +97,9 @@ command test do
 
 Automated image compression for efficiently distributing images on the web.
 
+**See my Medium article:**
+- [Modern Image Optimization for 2020- Issues, Solutions, and Open Source solutions](https://medium.com/@colbyn/modern-image-optimization-for-2020-issues-solutions-and-open-source-solutions-543af00e3e51)
+
 Notably includes a tool called [imager]( https://github.com/imager-io/imager ) for optimizing the binary encoding of images in a brute force trial ’n error sorta manner, using a new (at that time) ML based perceptual quality metric designed to be a more accurate model of human perception compared to prior formulaic approaches.
 
 It is extremely good at what it does.
@@ -527,6 +530,9 @@ Initially the work began with a *proof-of-concept* prototype with the following 
     - Cross platform support for multiple cursors / selections. 
 - Implement all of the above without relying on macOS only APIs.
     - While the prototype was implemented in terms of AppKit APIs, the port to iOS should be relatively trivial. Especially since this project was itself based on an earlier codebase that was implemented in terms of UIKit and I have verified that the TextKit 2 functionality concerning text selections does indeed work on—at least—iOS 17 (which I honestly thought would be too good to be true lol). 
+
+**See my article:**
+- [A Better iOS/MacOS Native Markdown Renderer — Proof of concept](https://colbynwadman.substack.com/p/a-better-iosmacos-native-markdown)
 
 ## [SuperSwiftMarkup]( https://github.com/SuperSwiftMarkup/SuperSwiftMarkup )
 
