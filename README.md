@@ -126,7 +126,7 @@ Greater uniformity facilitates greater diversity within a whole system, and afte
 
 # Random Thought 
 
-I whole heartedly I believe that honestly is always best in any scenario, especially in politics. But here, politicians don’t understand that the solution space as represented below may entail a regression to arrive at a more optimal state.
+I whole heartedly I believe that honesty is always best in any scenario, especially in politics. But here, politicians don’t understand that the solution space as represented below may entail a regression to arrive at a more optimal state.
 
 ![function-graph](images/function-graph.jpg)
 
