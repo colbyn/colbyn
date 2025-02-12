@@ -118,5 +118,7 @@ They say,
 
 > “The ecological theater and the evolutionary play are inseparably linked; environments shape evolutionary trajectories, while evolution shapes ecological roles.”
 
-Moving forward with these notes, the university model replaced monastic societies, and just as such rose such may in turn be replaceable with a better model, one better adapted and better suited to the problems of our time. Perhaps one just has to be the first to think of a viable model for one ecological niche, that can then spread, subsuming the traditional roles of the university system. 
+Moving forward with these notes,
+
+The university model replaced monastic societies, and just as such rose such may in turn be replaceable with a better model, one better adapted and better suited to the problems of our time. Perhaps one just has to be the first to think of a viable model for one ecological niche, that can then spread, subsuming the traditional roles of the university system. 
 
