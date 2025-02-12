@@ -181,6 +181,9 @@ Safe - Fast (and Non Blocking) - Dependency free - MIT License (with no GPL extr
  
 My beautiful math notes!
 
+![example](images/colbyn-math-notes-trig.png)
+![example](images/colbyn-math-notes.png)
+
 ## The Subscript Legacy HTML ToolChain - Content Publishing using Web Technologies
 
 ![Preview](images/subscript-html/desmos-preview.png)
