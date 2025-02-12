@@ -130,6 +130,8 @@ Honestly, it’s great public and personal expense and for what? So that stupid 
 
 Certainly too, the slow university system is not known for keeping up with the times, from IT to new media. 
 
+I think its time the west leads the way once more in a manner that’ll keep the rest of the world playing catch up. 
+
 Let’s consider the techno centric ideal of disrupting industries but here with regard to the system that disrupted the role once held by monastic societies. 
 
 Something I’ve noticed about the private sector is that they absolutely don’t want to build people up in such a way that they better accommodate the demands of their employers. Instead they only want to work with those who already meet their expectations. I suppose it makes sense, they’re forced to operate efficiently and training and the like expends resources. 
