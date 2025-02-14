@@ -117,7 +117,7 @@ Even liberals seem to be moving away from the European style welfare mindset and
 
 **Concerning Academia:**
 
-I suspect that some people copied my college aspirations but as I now see it, are there any easy pickings left in medical research in particular and scientific research in general? 
+I suspect that some may have copied my college aspirations but as I now see it, are there any easy pickings left in medical research in particular and scientific research in general? 
 
 Such that the future must necessarily be something new—from a new foundation. Which I analogously regard as something akin to the derivative free toolkit. What’s possible with the old toolkit has been maxed out and so the future will be based on a new toolkit whatever that may be.
 
