@@ -51,9 +51,9 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 
 - **[PROJECTS.md](PROJECTS.md):** A mega overview of all my major projects. The culmination of my life.
 - **[STATUS-LOG.md]( STATUS-LOG.md ):** my general timeline of activities.
+- **[BLOG.md]( BLOG.md ):** My blog file.
 - **[VERY-PERSONAL-BIO.md]( STATUS-LOG.md ):** A more personal pre-2025 biographical status timeline (incomplete).
 - **[COMMUNITY-BUILDING.md]( COMMUNITY-BUILDING.md ):** random notes on something...
-- **[BLOG.md]( BLOG.md ):** My blog file.
   
   I sometimes wonder if the *next big thing* as they say will turn out to be some form of social entrepreneurship… I’ve been looking for historical examples of primitive social entrepreneurship. The notes thereto is one such example.
   
