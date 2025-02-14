@@ -93,6 +93,24 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 
 ## 2025-2-15
 
+### Naming Conventions
+
+**Regarding naming conventions:** because some people have problems with the ‘SS’ prefix, I’ve since decided that ‘DD’ is actually easier to type, but I’ve already grown accustomed to the ‘SS’ prefix for all publicly exposed top-level identifiers and furthermore many projects are based on this naming convention… So such may be what I’m stuck with but henceforth I’ll focus more on names of two words that begin with a ‘d’. (Personally as someone whose ancestors fought the axis powers including taking such a bride as the spoils of war I don’t think such is a bit deal and typing efficiency is most pressing on my mind as a programmer. (On a tangent is it interesting that the only smart one in the family was from Europe.)) 
+
+**As I see it:**
+- `AA`: maybe
+- `SS`: ideal
+- `DD`: ideal
+- `ZZ`: too hard to type
+- `XX`: idk seems like Elong Musk’s personal namespace and I use ‘X’ for system type aliases
+- `CC`: no used for C FFI stuff and kinda hard to type
+- `FF`: maybe - kinda hard to type 
+- `WW`: way too hard to type
+- `QQ`: way too hard to type
+
+
+### Changing Times
+
 The times are changing throughout society. 
 
 Even liberals seem to be moving away from the European style welfare mindset and I suspect if Europe’s elite got together and rebuilt their systems from a fresh slate they’d implement less with regard to welfare programs.
@@ -104,5 +122,4 @@ I suspect that some people copied my college aspirations but as I now see it, ar
 Such that the future must necessarily be something new—from a new foundation. Which I analogously regard as something akin to the derivative free toolkit. What’s possible with the old toolkit has been maxed out and so the future will be based on a new toolkit whatever that may be.
 
 Overall I’m not particularly concerned about cutting scientific research. I suspect that those stuck in this space will pivot to research with ‘AI’ buzzwords which will signal the end of fundamental scientific research. 
-
 
