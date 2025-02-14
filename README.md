@@ -103,5 +103,6 @@ I suspect that some people copied my college aspirations but as I now see it, ar
 
 Such that the future must necessarily be something new—from a new foundation. Which I analogously regard as something akin to the derivative free toolkit. What’s possible with the old toolkit has been maxed out and so the future will be based on a new toolkit whatever that may be.
 
-Overall I’m not particularly concerned about cutting scientific research.
+Overall I’m not particularly concerned about cutting scientific research. I suspect that those stuck in this space will pivot to research with ‘AI’ buzzwords which will signal the end of fundamental research. 
+
 
