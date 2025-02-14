@@ -4,7 +4,7 @@
 
 ### Naming Conventions
 
-**Regarding naming conventions:** because some people have problems with the ‘SS’ prefix, I’ve since decided that ‘DD’ is actually easier to type, but I’ve already grown accustomed to the ‘SS’ prefix for all publicly exposed top-level identifiers and furthermore many projects are based on this naming convention… So such may be what I’m stuck with but henceforth I’ll focus more on names of two words that begin with a ‘d’. (Personally as someone whose ancestors fought the axis powers including taking such a bride as the spoils of war I don’t think such is a bit deal and typing efficiency is most pressing on my mind as a programmer. (On a tangent is it interesting that the only smart one in the family was from Europe.)) 
+**Regarding naming conventions:** because some people have problems with the ‘SS’ prefix, I’ve since decided that ‘DD’ is actually easier to type, but I’ve already grown accustomed to the ‘SS’ prefix for all publicly exposed top-level identifiers and furthermore many projects are based on this naming convention… So such may be what I’m stuck with but henceforth I’ll focus more on names of two words that begin with a ‘D’. (Personally as someone whose ancestors fought the axis powers including taking such a bride as the spoils of war I don’t think such is a big deal and typing efficiency is most pressing on my mind as a programmer. (On a tangent is it interesting that the only smart one in the family was from Europe.)) 
 
 **As I see it:**
 - `AA`: maybe
