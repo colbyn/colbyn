@@ -30,6 +30,10 @@ The future is doomed if genetic diversity is insufficient. In an increasingly fl
 
 (Also there should be a good quote from Dune concerning one of Paul’s trips.)
 
+**PS:**
+
+I swear i’ve read about this as it concerns derivative free optimization heuristics. Just as in a computer model, so too will be our inevitable demise! 
+
 ## 2025-2-14
 
 ### Naming Conventions
