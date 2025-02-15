@@ -40,6 +40,8 @@ While I’ll probably be dead by then, karma will one day apply to society at la
 
 > I suppose if no cultural solution is found then the simple biological imperative to breed will become more and more pronounced over the generations (although we’re currently seeing the opposite but regardless), in this manner the human race will inevitably bounce back but such will take time and at the cost of genetic diversity among the population (a factor that itself takes far more time to proliferate), the cost of which will be suboptimal convergence with regard to other desirable outcomes, like the fundamental survival of the species in such an ever fluctuating environment, in the grand scheme of things. 
 
+All from the sins of the people including myself.
+
 ## 2025-2-14
 
 ### Naming Conventions
