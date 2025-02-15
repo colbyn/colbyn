@@ -91,6 +91,37 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 
 # Latest [BLOG ENTRY]( BLOG.md )
 
+## 2025-2-15
+
+Last night I had a trip unlike anything I’ve hitherto experienced.
+
+**Consider,**
+
+LLMs should make it plainly obvious that optimal convergence matters. 
+
+**Therefore,**
+
+What happens if the human population itself sub-optimally converges (with regard to our very nature at the information encoding level)? 
+
+**Off the top of my head,**
+
+From historical precedent we suspect from the agricultural revolution that genetic diversity plummeted but environmental perturbations were local and so the human species persisted. 
+
+We also know from historical precedent that populations can utterly collapse, upwards of 90% as suspected when pathogens were transmitted from the old world to the new world, and now we find ourselves in an environment of ever decreasing genetic diversity, ever increasing informational similarity with regard to our very nature, and already we’re not that dissimilar in informational terms. So it may not take much to tip the scales. 
+
+**So in summary,**
+
+Thanks to the agricultural revolution now accelerated by the industrial revolution and then from the effects of ever increasing globalization, we find ourselves increasingly vulnerable to environmental threats, and to cope with such threats we find ourselves increasingly similar in informational terms at the level of our very nature and therefore the risk of suboptimal convergence as if a model of our species with respect to the solution space as it concerns changing environmental threats is all but guaranteed.
+
+**So in the grand scheme of things,**
+
+The future is doomed if genetic diversity is insufficient. In an increasingly fluctuating world, suboptional convergence means suboptional convergence. 
+
+**How I would love to further look into this but LibGen is down!!!** 
+
+(Also there should be a good quote from Dune concerning one of Paul’s trips.)
+
+
 ## 2025-2-14
 
 ### Naming Conventions
@@ -124,32 +155,3 @@ Such that the future must necessarily be something new—from a new foundation. 
 Overall I’m not particularly concerned about cutting scientific research. I suspect that those stuck in this space will pivot to research with ‘AI’ buzzwords which will signal the end of fundamental scientific research. 
 
 
-## 2025-2-15
-
-Last night I had a trip unlike anything I’ve hitherto experienced.
-
-**Consider,**
-
-LLMs should make it plainly obvious that optimal convergence matters. 
-
-**Therefore,**
-
-What happens if the human population itself sub-optimally converges (with regard to our very nature at the information encoding level)? 
-
-**Off the top of my head,**
-
-From historical precedent we suspect from the agricultural revolution that genetic diversity plummeted but environmental perturbations were local and so the human species persisted. 
-
-We also know from historical precedent that populations can utterly collapse, upwards of 90% as suspected when pathogens were transmitted from the old world to the new world, and now we find ourselves in an environment of ever decreasing genetic diversity, ever increasing informational similarity with regard to our very nature, and already we’re not that dissimilar in informational terms. So it may not take much to tip the scales. 
-
-**So in summary,**
-
-Thanks to the agricultural revolution now accelerated by the industrial revolution and then from the effects of ever increasing globalization, we find ourselves increasingly vulnerable to environmental threats, and to cope with such threats we find ourselves increasingly similar in informational terms at the level of our very nature and therefore the risk of suboptimal convergence as if a model of our species with respect to the solution space as it concerns changing environmental threats is all but guaranteed.
-
-**So in the grand scheme of things,**
-
-The future is doomed if genetic diversity is insufficient. 
-
-**How I would love to further look into this but LibGen is down!!!** 
-
-(Also there should be a good quote from Dune concerning one of Paul’s trips.)

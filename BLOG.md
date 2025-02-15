@@ -24,7 +24,7 @@ Thanks to the agricultural revolution now accelerated by the industrial revoluti
 
 **So in the grand scheme of things,**
 
-The future is doomed if genetic diversity is insufficient. 
+The future is doomed if genetic diversity is insufficient. In an increasingly fluctuating world, suboptional convergence means suboptional convergence. 
 
 **How I would love to further look into this but LibGen is down!!!** 
 
