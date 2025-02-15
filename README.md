@@ -91,7 +91,7 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 
 # Latest [BLOG ENTRY]( BLOG.md )
 
-## 2025-2-15
+## 2025-2-14
 
 ### Naming Conventions
 
