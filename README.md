@@ -123,7 +123,7 @@ The future is doomed if genetic diversity is insufficient. In an increasingly fl
 
 **PS:**
 
-I swear i’ve read about this as it concerns derivative free optimization heuristics. Just as in a computer model, so too will be our inevitable demise! 
+I swear i’ve read about this as it concerns derivative free optimization heuristics. Just as in a *mere* computer model, so too will be our inevitable demise! 
 
 ## 2025-2-14
 
