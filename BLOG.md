@@ -38,6 +38,15 @@ For guys in particular, someone must come forward, channeling the Pachomius in t
 
 Such a ‘one’ **must be found**, such a one **must come forward**, and just as in Pachomius’s time, such a one **should not be discouraged by the opinions of old men** who are all too content with the old ways that are objectively failing men.
 
+———
+
+**For non-western countries:**
+
+The romans has no culture of their own and so they imported one and made it great. The romans expanded greek culture far beyond their original borders and beyond time itself. 
+
+Don’t chase success as defined by the west, innovate elsewhere on a model that can be adopted by the west and such will become the standard for the next millennia.
+
+
 ## 2025-2-15
 
 Last night I had a trip unlike anything I’ve hitherto experienced.
