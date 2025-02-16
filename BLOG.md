@@ -1,5 +1,41 @@
 # Latest
 
+## 2025-2-16
+
+**Immigration:**
+
+I’ve been thinking about immigration. I think governments should cease their top-down approach in favor of the self selection of the people (and maybe businesses.)
+
+Nowadays, the right is very adverse to top down immigration policies, and the now the left is trying to figure out what to do when the cultural sentiment is such that Americans don’t want more top down immigration policies. 
+
+I have an idea, historically cultural groups merged in terms of marriage, and nowadays guys are already going abroad doing just such. Immigration should be based on the self selection of the people (and maybe businesses) via such means and so bottom up immigration should be the favored streamlined approach.
+
+In the case of bottom up selection from businesses perhaps it should be such that imported talent is more expensive by some multiple to discourage simply phasing out expensive talent in favor of cheaper alternatives. But easier said than done, there may be no option in this case that would satisfy both the interests of businesses and the general public. 
+
+The people are just too sensitive to business over optimizing their labor force and especially in such a time as this. 
+
+———
+
+**Sustainability:**
+
+Sometimes I feel like I’m the only one who cares about sustainability (given my current life perhaps) at a system level. 
+
+Plants definitely care about sustainability in terms of energy consumption and productivity. In the case of photosynthesis they generally disregarded the most energetic wavelengths for better sustained energy utilization over time though it’s not entirely known why. 
+
+Perhaps the reason why is just too foreign to our mindset of maximizing all things. As if from a plant’s perspective, maximizing energy flow just isn’t worthwhile in favor of sustained long term productivity. 
+
+———
+
+**Social Cohesion:**
+
+Nowadays I think everyone just wants some sense of stability in their lives, and stability through long term sustainability is the only way forward. 
+
+Mass immigration does not contribute to the public’s desire for stability. 
+
+Same for social cohesion, only through bottom up community building can people become more socially cohesive. Which was once the domain of religion and local churches but nowadays such just isn’t working for guys in particular. Most churches are too familiar oriented, and most guys nowadays aren’t gonna be starting families anytime soon and so something new must come forward. 
+
+For guys in particular, someone must come forward, channeling the Pachomius in terms of community building, and such a person will go down in history as a great man. Perhaps never before in history has there been such a market opportunity to active such greatness—unadulterated by the desires of our time, pure greatness persists through history. 
+
 ## 2025-2-15
 
 Last night I had a trip unlike anything I’ve hitherto experienced.
