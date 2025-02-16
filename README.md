@@ -133,7 +133,7 @@ While I’ll probably be dead by then, karma will one day apply to society at la
 
 All from the sins of the people including myself.
 
-Regardless, I think I’ve taken enough drugs in my life, perhaps such a trip is what I’ve been waiting for to signal a time for change with regard to myself. But I suppose only time will tell.
+Regardless, I think I’ve taken enough drugs in my life, perhaps such a trip is what I’ve been waiting for to signal a time for change with regard to myself. But I suppose only time will tell. That was just way too intense.
 
 ## 2025-2-14
 
