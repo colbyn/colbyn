@@ -123,6 +123,6 @@ Nowadays I think everyone just wants some sense of stability in their lives, and
 
 Mass immigration does not contribute to the public’s desire for stability. 
 
-Same for social cohesion, only through bottom up community building can people become more socially cohesive. Which was once the domain of religion and local churches but nowadays such just isn’t working for guys in particular. Most churches are too familiar oriented, and most guys nowadays aren’t gonna be starting families anytime soon and so something new must come forward. 
+Same for social cohesion, only through bottom up community building can people become more socially cohesive. Which was once the domain of religion and local churches but nowadays such just isn’t working for guys in particular. Most churches are too familiar oriented, and most guys nowadays aren’t gonna be starting families anytime soon (nor do they want anything to do with it, societal karma perhaps) and so something new must come forward.
 
 For guys in particular, someone must come forward, channeling the Pachomius in terms of community building, and such a person will go down in history as a great man. Perhaps never before in history has there been such a market opportunity to active such greatness—unadulterated by the desires of our time, pure greatness persists through history. 
