@@ -1,3 +1,9 @@
+# Published!
+
+- [Live & Up-To-Date Article]( https://colbynwadman.substack.com/p/surviving-where-others-fail )
+
+# Original
+
 I bought my younger brother an illustrated version of the Zhuangzi for Christmas. I’ve been trying to get him to read more.
 
 Personally, while it’s not the most profound thing in the whole book, for me this is the best parable therein:
