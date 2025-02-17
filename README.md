@@ -6,7 +6,7 @@ I’m an independent software researcher & writer who explores new ways of doing
 
 As a software researcher, while every idea must begin somewhere, I understand very well the **limits of forethought**. 
 
-For instance consider the field of computability theory, it is well known that there are hard limits on what one can ‘know’ upfront from static information. Especially in the context of formal verification, where given some Turing complete program description, there are many insights one may wish to know that are generally impossible to answer upfront without some degree of evaluation. But while this is in the context of automation and its limits, such problems are **equally relevant to the limits of forethought** because ultimately the human brain is itself a computer and so is itself bound by the limits of computation.
+For instance consider the field of computability theory, it is well known that there are hard limits on what one can ‘know’ upfront from static information. Especially in the context of formal verification, where given some Turing complete program description, there are many insights one may wish to know (like the presence of bugs) that are generally impossible to answer upfront without some degree of evaluation. But while this is in the context of automation and its limits, such problems are **equally relevant to the limits of forethought** because ultimately the human brain is itself a computer and so is itself bound by the limits of computation.
 
 > Nowadays while some programmers are trying to put all other programmers outta a job, some mathematicians have been trying to put all other mathematicians outta a job for at least a century.
 
