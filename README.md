@@ -67,11 +67,9 @@ So far the highlight of my research (in order of coolness) has probably been:
 
 As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot because everything I do is just too custom. Nowadays we forget that automation only applies to the most common of use cases, which for me is usually within the free tier. 
 
----
-
-Honestly as a high octane thinker if I had kids I wouldn’t even want them to use LLMs unless I wanted to raise those with mentally inert mindsets that can only think in terms of corporate speak. 
-
-If anything I’d love to explore anti-AI themed startup opportunities one day because it’d just be super ironic if such succeeded where all those success chasing startups failed. 
+> Honestly as a high octane thinker if I had kids I wouldn’t even want them to use LLMs unless I wanted to raise those with mentally inert mindsets that can only think in terms of corporate speak. 
+> 
+> If anything I’d love to explore anti-AI themed startup opportunities one day because it’d just be super ironic if such succeeded where all those success chasing startups failed. 
 
 # Files
 
