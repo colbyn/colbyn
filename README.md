@@ -4,13 +4,25 @@ I’m an independent software researcher & writer who explores new ways of doing
 
 ![cool UI]( images/subscript-ipad.jpg )
 
+## Choose Your Constraints Wisely
+
 As a software researcher, half the problem is choosing your constraints wisely. Ultimately, projects need hard constraints to succeed, and not just be another copycat.
 
 Likewise, good constraints lead to optional convergence towards desirable outcomes, and in ways that cannot be perceived upfront by any human brain.
 
-Which nowadays matters far more than mere good ideas. Because every idea has been thought of before, but too little has been explored in such a freeform manner that inconceivable ideas can spring up in a manner that cannot otherwise be predicted upfront. In this regard, LLMs like ChatGPT should make it plainly obvious that much can be done from randomly provisioned numbers and optional convergence via a method of iteration.
+Which nowadays matters far more than mere good ideas. Because every idea has been thought of before, but too little has been explored in such a freeform fashion that inconceivable ideas can spring up and in a manner that cannot otherwise be predicted upfront. In this regard, LLMs like ChatGPT should make it plainly obvious that much can be done from randomly provisioned numbers and optional convergence via a method of iteration.
 
 So what matters more are your constraints, not static ideas.
+
+## From Historical Precedence
+
+**With regard to software research:** The Haskell Programming Language would not be what it is today without the hard and never before seen constraint of lazy evaluation. Just to emphasize the point, nowadays lazy evaluation is considered to be a design mistake, but it shaped all other aspects in such a way that made it was it is today and therefore it was a worthwhile design mistake. (Although nowadays I’d rather use PureScript if only tooling was better.)
+
+**More systematically:** LLMs like ChatGPT begin with a series of randomly provisioned numbers, and via a method of iteration and refinement, the system converges towards an optional outcome and in a manner that cannot be predicted upfront.
+
+## More Generally
+
+It is well known that harder problems yield more satisfactory results. From a software research perspective, projects need hard and technically challenging constraints to innovate, and preferably constraints not hitherto seem to make something new, and especially the kinda stuff that cannot be predicted in advance.
 
 ## Limits Of Foresight
 
@@ -24,7 +36,9 @@ This is the value I bring to the table, and is why my research style is very ‘
 
 Most of the flourishment from the Haskell community could not have been predicated upfront, but they chose their constraints wisely, and so the project converged towards a very desirable outcome without any upfront idea of what would come of it.
 
-Additionally: LLMs like ChatGPT should make it plainly obvious that optimal convergence matters more than a mere upfront definition of a system. In my mind, business models are no different, what matters more are optional constraints such that a complex system can converge towards a desirable outcome.
+**Additionally:** LLMs like ChatGPT should make it plainly obvious that optimal convergence matters more than a mere upfront definition of a system. In my mind, business models are no different, what matters more are optional constraints such that a complex system can converge towards a desirable outcome.
+
+## In Closing
 
 Also, as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** Or in other words don't chase success.
 
