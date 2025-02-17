@@ -1,3 +1,7 @@
+# Published!
+
+- [Live & Up-To-Date Article]( https://colbynwadman.substack.com/p/choose-your-constraints-wisely )
+
 # Choose Your Constraints Wisely
 
 > Projects and business models need hard constraints to succeed and not just be another copycat
