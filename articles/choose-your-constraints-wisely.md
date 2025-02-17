@@ -1,22 +1,24 @@
 # Choose Your Constraints Wisely
 
+> Projects and business models need hard constraints to succeed and not just be another copycat
+
 As a software researcher, half the problem is choosing your constraints wisely. Ultimately, projects need hard constraints to succeed, and not just be another copycat which cannot be understated.
 
-Furthermore, good constraints lead to optional convergence towards desirable outcomes, and in ways that cannot be perceived upfront.
+Furthermore, good constraints lead to optional convergence towards desirable outcomes, and in ways that cannot be perceived upfront by any human brain. 
 
-Which nowadays matters far more than mere good ideas. 
-
-Because every idea has been thought of before, but too little has been explored in such a freeform manner that ideas can spring up in a manner that cannot otherwise be predicted upfront. In this regard, LLMs like ChatGPT should make it plainly obvious that much can be done from randomly provisioned numbers. 
+Which nowadays matters far more than mere good ideas. Because every idea has been thought of before, but too little has been explored in such a freeform manner that ideas can spring up in a manner that cannot otherwise be predicted upfront. In this regard, LLMs like ChatGPT should make it plainly obvious that much can be done from randomly provisioned numbers and optional convergence via iteration. 
 
 So what matters more are your constraints, not static ideas. 
 
 ## From Historical Precedence
 
-Haskell would not be what it is today without the hard and never before seen constraint of lazy evaluation. Just to emphasize the point, nowadays lazy evaluation is considered to be a design mistake, but it shaped all other aspects in such a way that made it was it is today and therefore it was a worthwhile design mistake. (Although nowadays I’d rather use PureScript if only tooling was better.)
+With regard to software research: The Haskell Programming Language would not be what it is today without the hard and never before seen constraint of lazy evaluation. Just to emphasize the point, nowadays lazy evaluation is considered to be a design mistake, but it shaped all other aspects in such a way that made it was it is today and therefore it was a worthwhile design mistake. (Although nowadays I’d rather use PureScript if only tooling was better.)
+
+More systematically: LLMs like ChatGPT begin with a series of randomly provisioned numbers, and via a method of iteration and refinement, the system converges towards an optional outcome and in a manner that cannot be predicted upfront. 
 
 ## More Generally
 
-It is well known that harder problems yield more satisfactory results. From a software research perspective, projects need hard and technically challenging constraints to innovate and make something new, and especially the kinda stuff that cannot be predicted in advance. 
+It is well known that harder problems yield more satisfactory results. From a software research perspective, projects need hard and technically challenging constraints to innovate, and preferably constraints not hitherto seem to make something new, and especially the kinda stuff that cannot be predicted in advance.
 
 ### Limits Of Foresight 
 

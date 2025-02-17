@@ -61,6 +61,12 @@ If anything I’d love to explore anti-AI themed startup opportunities one day b
 - **[QUOTES.md]( QUOTES.md ):** thought providing quotes on systems.
 - **[surviving-where-others-fail.md](surviving-where-others-fail.md)**: Surviving where others fail by following the way. Something I wish I knew when I was younger. Perhaps it’ll save you one day. 
 
+## Articles (some ongoing - not yet ready for publication)
+
+- [articles/choose-your-constraints-wisely.md]( articles/choose-your-constraints-wisely.md ): Choose Your Constraints Wisely
+
+
+
 # Secret Ongoing Essays
 
 **In general these are not yet reading for public consumption.**
