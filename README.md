@@ -94,7 +94,7 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
 **Substack:**
 
 - [A Better iOS/MacOS Native Markdown Renderer]( https://colbynwadman.substack.com/p/a-better-iosmacos-native-markdown?r=28sf0r )
-- [Journal Entry • 2025-2-16]( https://colbynwadman.substack.com/p/journal-entry-2025-2-16?r=28sf0r )
+- [Journal Entry • 2025-2-16]( https://colbynwadman.substack.com/p/journal-entry-2025-2-16?r=28sf0r ): Immigration • Sustainability • Social Cohesion • For non-western countries
 - [Choose Your Constraints Wisely]( https://colbynwadman.substack.com/p/choose-your-constraints-wisely?r=28sf0r )
 - [Surviving Where Others Fail]( https://colbynwadman.substack.com/p/surviving-where-others-fail?r=28sf0r )
 - [Honesty Is The Best Propaganda]( https://colbynwadman.substack.com/p/honesty-is-the-best-propaganda?r=28sf0r )
