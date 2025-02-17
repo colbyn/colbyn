@@ -4,21 +4,33 @@ I’m an independent software researcher & writer who explores new ways of doing
 
 ![cool UI]( images/subscript-ipad.jpg )
 
-As a software researcher, while every idea must begin somewhere, I understand very well the **limits of forethought**. 
+As a software researcher, half the problem is choosing your constraints wisely. Ultimately, projects need hard constraints to succeed, and not just be another copycat.
 
-For instance consider the field of computability theory, it is well known that there are hard limits on what one can ‘know’ upfront from static information. Especially in the context of formal verification, where given some Turing complete program description, there are many insights one may wish to know (like the presence of bugs) that are generally impossible to answer upfront without some degree of evaluation. But while this is in the context of automation and its limits, such problems are **equally relevant to the limits of forethought** because ultimately the human brain is itself a computer and so is itself bound by the limits of computation.
+Likewise, good constraints lead to optional convergence towards desirable outcomes, and in ways that cannot be perceived upfront by any human brain.
+
+Which nowadays matters far more than mere good ideas. Because every idea has been thought of before, but too little has been explored in such a freeform manner that inconceivable ideas can spring up in a manner that cannot otherwise be predicted upfront. In this regard, LLMs like ChatGPT should make it plainly obvious that much can be done from randomly provisioned numbers and optional convergence via a method of iteration.
+
+So what matters more are your constraints, not static ideas.
+
+## Limits Of Foresight
+
+Consider the field of computability theory, it is well known that there are hard limits on what one can ‘know’ upfront from static information, such as from source code or a business model.
+
+**Mathematically:** in the context of formal verification, where given some Turing complete program description, there are many insights one may wish to know (like the presence of bugs) that are generally impossible to answer upfront without some degree of evaluation. But while this is in the context of automation and its limits, such problems are equally relevant to the limits of forethought because ultimately the human brain is itself a computer and so is itself bound by the limits of computation.
 
 > Nowadays while some programmers are trying to put all other programmers outta a job, some mathematicians have been trying to put all other mathematicians outta a job for at least a century.
 
-This is the value I bring to the table, and is why my research style is very ‘evaluative’ and in an ‘exploratory’ manner. If you’re looking for those game-changer insights that cannot be known upfront (such as those concerning a business model), then I will come in and *compute* the problem to completion, and then report back on what has been uncovered along with any speculative advisory foresights from a refined context.
+This is the value I bring to the table, and is why my research style is very ‘evaluative’ and in an ‘exploratory’ manner. If you’re looking for those game-changer insights that cannot be known upfront (such as those concerning a business model), then I will come in and compute the problem to completion, and then report back on what has been uncovered along with any speculative advisory foresights from a refined context.
 
-Also, as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** Or in other words don't chase success. (Although this remark may also just be cope in the Haskell community.)
+Most of the flourishment from the Haskell community could not have been predicated upfront, but they chose their constraints wisely, and so the project converged towards a very desirable outcome without any upfront idea of what would come of it.
+
+Additionally: LLMs like ChatGPT should make it plainly obvious that optimal convergence matters more than a mere upfront definition of a system. In my mind, business models are no different, what matters more are optional constraints such that a complex system can converge towards a desirable outcome.
+
+Also, as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** Or in other words don't chase success.
 
 **Note:** **with regard to source code ownership rights, such can be negotiated.**
 
 > I usually standardize on rust because it’s the lowest common denominator solution in a multitude of respects, for instance I can compile (and even cross-compile depending on my dependencies) rust code for a multitude of platforms, along with great community support for a multitude of use cases. In general, rust isn’t perfect but it **just works** in numerous respects (especially for data modeling and serialization which is often overlooked). Unless there’s a strong justification elsewhere, such as if I’m doing native iOS/macOS UI work for which idiomatic Swift is preferred throughout unless there’s a strong justification for rust with regard to app logic functionality (such as to support cross-platform app logic or if I just need to plug into some rust crate.)
-
-Also, 
 
 ---
 
