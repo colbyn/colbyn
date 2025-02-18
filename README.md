@@ -4,47 +4,9 @@ I’m an independent software researcher & writer who explores new ways of doing
 
 ![cool UI]( images/subscript-ipad.jpg )
 
-## Choose Your Constraints Wisely
+Also, as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** 
 
-As a software researcher, half the problem is choosing your constraints wisely. Ultimately, projects need hard constraints to succeed, and not just be another copycat.
-
-Likewise, good constraints lead to optional convergence towards desirable outcomes, and in ways that cannot be perceived upfront by any human brain.
-
-Which nowadays matters far more than mere good ideas. Because every idea has been thought of before, but too little has been explored in such a freeform fashion that inconceivable ideas can spring up and in a manner that cannot otherwise be predicted upfront. In this regard, LLMs like ChatGPT should make it plainly obvious that much can be done from randomly provisioned numbers and optional convergence via a method of iteration.
-
-So what matters more are your constraints, not static ideas.
-
-## From Historical Precedence
-
-**With regard to software research:** The Haskell Programming Language would not be what it is today without the hard and never before seen constraint of lazy evaluation. Just to emphasize the point, nowadays lazy evaluation is considered to be a design mistake, but it shaped all other aspects in such a way that made it was it is today and therefore it was a worthwhile design mistake. (Although nowadays I’d rather use PureScript if only tooling was better.)
-
-**More systematically:** LLMs like ChatGPT begin with a series of randomly provisioned numbers, and via a method of iteration and refinement, the system converges towards an optional outcome and in a manner that cannot be predicted upfront.
-
-## More Generally
-
-It is well known that harder problems yield more satisfactory results. From a software research perspective, projects need hard and technically challenging constraints to innovate, and preferably constraints not hitherto seem to make something new, and especially the kinda stuff that cannot be predicted in advance.
-
-## Limits Of Foresight
-
-Consider the field of computability theory, it is well known that there are hard limits on what one can ‘know’ upfront from static information, such as from source code or a business model.
-
-**Mathematically:** in the context of formal verification, where given some Turing complete program description, there are many insights one may wish to know (like the presence of bugs) that are generally impossible to answer upfront without some degree of evaluation. But while this is in the context of automation and its limits, such problems are equally relevant to the limits of forethought because ultimately the human brain is itself a computer and so is itself bound by the limits of computation.
-
-> Nowadays while some programmers are trying to put all other programmers outta a job, some mathematicians have been trying to put all other mathematicians outta a job for at least a century.
-
-This is the value I bring to the table, and is why my research style is very ‘evaluative’ and in an ‘exploratory’ manner. If you’re looking for those game-changer insights that cannot be known upfront (such as those concerning a business model), then I will come in and compute the problem to completion, and then report back on what has been uncovered along with any speculative advisory foresights from a refined context.
-
-Most of the flourishment from the Haskell community could not have been predicated upfront, but they chose their constraints wisely, and so the project converged towards a very desirable outcome without any upfront idea of what would come of it.
-
-**Additionally:** LLMs like ChatGPT should make it plainly obvious that optimal convergence matters more than a mere upfront definition of a system. In my mind, business models are no different, what matters more are optional constraints such that a complex system can converge towards a desirable outcome.
-
-## In Closing
-
-Also, as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** Or in other words don't chase success.
-
-**Note:** **with regard to source code ownership rights, such can be negotiated.**
-
-> I usually standardize on rust because it’s the lowest common denominator solution in a multitude of respects, for instance I can compile (and even cross-compile depending on my dependencies) rust code for a multitude of platforms, along with great community support for a multitude of use cases. In general, rust isn’t perfect but it **just works** in numerous respects (especially for data modeling and serialization which is often overlooked). Unless there’s a strong justification elsewhere, such as if I’m doing native iOS/macOS UI work for which idiomatic Swift is preferred throughout unless there’s a strong justification for rust with regard to app logic functionality (such as to support cross-platform app logic or if I just need to plug into some rust crate.)
+Or in other words don't chase success.
 
 ---
 
@@ -75,21 +37,14 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
 
 - **[PROJECTS.md](PROJECTS.md):** A mega overview of all my major projects. The culmination of my life.
 - **[STATUS-LOG.md]( STATUS-LOG.md ):** my general timeline of activities.
-- **[BLOG.md]( BLOG.md ):** My blog file.
-- **[VERY-PERSONAL-BIO.md]( STATUS-LOG.md ):** A more personal pre-2025 biographical status timeline (incomplete).
-- **[COMMUNITY-BUILDING.md]( COMMUNITY-BUILDING.md ):** random notes on something...
-  
-  I sometimes wonder if the *next big thing* as they say will turn out to be some form of social entrepreneurship… I’ve been looking for historical examples of primitive social entrepreneurship. The notes thereto is one such example.
-  
-  **Last Updated:** 2025-2-12
 - **[QUOTES.md]( QUOTES.md ):** thought providing quotes on systems.
-- **[surviving-where-others-fail.md](surviving-where-others-fail.md)**: Surviving where others fail by following the way. Something I wish I knew when I was younger. Perhaps it’ll save you one day. 
 
 ## Articles
 
 **Local:**
 
 - [articles/choose-your-constraints-wisely.md]( articles/choose-your-constraints-wisely.md ): Choose Your Constraints Wisely
+- **[surviving-where-others-fail.md](surviving-where-others-fail.md)**: Surviving where others fail by following the way. Something I wish I knew when I was younger. Perhaps it’ll save you one day. 
 
 **Substack:**
 
@@ -121,8 +76,11 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
 
 ## Dev Blogs
 
-- [Medium]( https://medium.com/@colbyn ): Not very active on here anymore; most stuff is old.
-- [SubStack]( https://colbynwadman.substack.com/ ): My new preferred place.
+- [SubStack]( https://colbynwadman.substack.com/ )
+  - **My new preferred place.**
+
+- [Medium]( https://medium.com/@colbyn )
+  + Discontinued; the community is dead, all thats left is my old stuff. 
 
 ## Contact
 
