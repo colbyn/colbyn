@@ -98,7 +98,7 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
 - [Choose Your Constraints Wisely]( https://colbynwadman.substack.com/p/choose-your-constraints-wisely?r=28sf0r )
 - [Surviving Where Others Fail]( https://colbynwadman.substack.com/p/surviving-where-others-fail?r=28sf0r )
 - [Honesty Is The Best Propaganda]( https://colbynwadman.substack.com/p/honesty-is-the-best-propaganda?r=28sf0r )
-
+- [The ‘next big thing’ is Social freakin Entrepreneurship!](https://open.substack.com/pub/colbynwadman/p/the-next-big-thing-is-social-freakin?r=28sf0r&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false): Chief of all social problems nowadays is the lack of social cohesion. Which is a problem that only bottom-up community building can solve.
 
 # Secret Ongoing Essays
 
