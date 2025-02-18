@@ -83,8 +83,7 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
   + [NextGen Community Research](http://nextgencommunityresearch.substack.com): **Coming Soon!**
     - [See the coming soon page](https://open.substack.com/pub/nextgencommunityresearch/p/coming-soon?r=28sf0r&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
-- [Medium]( https://medium.com/@colbyn )
-  + Discontinued; the community is dead, all thats left is my old stuff. 
+- [Medium]( https://medium.com/@colbyn ): Discontinued; the community is dead; all thats left is the old stuff from the old me.
 
 ## Contact
 
