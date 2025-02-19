@@ -81,6 +81,7 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
 - [Medium]( https://medium.com/@colbyn ): Discontinued; the community is dead and now its just AI written garbage; all thats left is the old stuff from the old me.
 
 - [My Beautiful Math Notes](https://colbyn.github.io/school-notes-spring-2020/): Looks best on wide viewports.
+- [My Experimental Chemistry Notes](https://colbyn.github.io/old-school-chem-notes/dev/chemistry-1010---fall-2021/index.html): from the root table of contents, click on any option to see my freeform notes.
 
 ## Contact
 
