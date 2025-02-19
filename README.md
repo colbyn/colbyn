@@ -74,8 +74,6 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
 
 # Links
 
-## Dev Blogs
-
 - [SubStack]( https://colbynwadman.substack.com/ ): **My new preferred place.** Publications:
   + [Colbyn's Personal Substack](http://colbynwadman.substack.com/)
   + [NextGen Community Research](http://nextgencommunityresearch.substack.com): **WIP!** 👉 See the [coming soon article](https://open.substack.com/pub/nextgencommunityresearch/p/coming-soon?r=28sf0r&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
