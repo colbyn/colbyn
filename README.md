@@ -37,7 +37,7 @@ But while good software improves the lives and productivity of the people. The b
 ---
 
 Also, as every good researcher knows, don’t chase success, chase a good methodology, and as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** 
-g
+
 ---
 
 **Regarding my past research:**
