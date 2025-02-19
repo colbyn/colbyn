@@ -42,6 +42,8 @@ Because success is easy, and that which is easy has its costs. For those of us g
 
 Moving forward, I have a hunch that success has doomed the west. As I focus on building better communities, how I would love to plant roots someplace else. Perhaps where labor is cheaper. Over here billion dollar companies can’t even make native mobile apps, personally I blame the tech bro culture that arose alongside web clients. Ease of software and content delivery is most important, as shown by SubStack that basically popularized email based content distribution, but App Clips are a thing and a step in the right direction as far as even easier delivery mechanisms are concerned and yet tech bros are utterly incognizant of better ideas beyond web clients.
 
+Over here tech bros are just too hella stimulated to conceive of anything outside their preconceived framework.
+
 ---
 
 **Regarding my past research:**
