@@ -40,6 +40,8 @@ Also, as every good researcher knows, don’t chase success, chase a good method
 
 Because success is easy, and that which is easy has its costs. For those of us guided by a higher standard, we want something more than mere success as defined by societal expectations. In this regard, the best of us are those zealots who’ve fried all their pain receptors and so the nervous system perceives nothing but this ineffable higher standard. 
 
+Moving forward, I have a hunch that success has doomed the west. As I focus on building better communities, how I would love to plant roots someplace else. 
+
 ---
 
 **Regarding my past research:**
