@@ -34,7 +34,7 @@ Personally, software research should be applied for developing software that jus
 
 There’s so much software that just doesn’t “feel right”. Pure and simple, and if these companies don’t innovate by uncovering ideas from the very depths, they will be superseded by those who do, because **the world needs good software!** 
 
-But while good software improves the lives and productivity of the people. The best software creates whole new ecological roles and niches.
+But while good software improves the lives and productivity of the people. The best software creates whole new ecological roles and niches. (Although personally I just want the software I use to “feel right”.)
 
 ---
 
