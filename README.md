@@ -30,14 +30,14 @@ As every researcher is essentially uncovering ideas from the depths where foreth
 
 Personally, software research should be applied for developing software that just “feels right”. As a passionate SubStack writer, how I wish things were better! 
 
-There’s so much software that just doesn’t “feel right”. Pure and simple, and if these companies don’t innovate by uncovering ideas from the very depths, they will be superseded by those who do, because **the world needs good software!** 
+More generally, there’s so much software in everyday use that just doesn’t “feel right”. Pure and simple, and if these companies don’t innovate by uncovering ideas from the very depths, they will one day be superseded by those who do, because **the world needs good software!**
 
 But while good software improves the lives and productivity of the people. The best software creates whole new ecological roles and niches. (Although personally I just want the software I use to “feel right”.)
 
 ---
 
 Also, as every good researcher knows, don’t chase success, chase a good methodology, and as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** 
-
+g
 ---
 
 **Regarding my past research:**
