@@ -4,9 +4,28 @@ I’m an independent software researcher & writer who explores new ways of doing
 
 ![cool UI]( images/subscript-ipad.jpg )
 
-Also, as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** 
+**Why does the world need software researchers?**
 
-Or in other words don't chase success.
+Because fundamentally, 
+
+Ideas are cheap; nowadays methodology matters more than ever. For all the low hanging fruit is gone; the simplest opportunities have been taken. The startup space itself is liken to the first prospectors who got the gold nuggets lying in the riverbed; today the reality is such that you’ve got to dig deep or go home, and those who dig into the depths cannot use mere forethought, for what lies beneath cannot be seen by the mind’s eye. 
+
+Just as the early oil prospectors didn’t have precise maps—just intuition and test drills. They had to drill, analyze the pressure, and adjust. The best oil fields weren’t found by foresight alone, but by adaptive exploration.
+
+Just as neural networks themselves are iteratively refined, from a randomly provisioned series of numbers, data scientists apply a methodology in such a manner that the system converges towards some desired outcome, the result of which cannot be perceived upfront from static foresight. 
+
+The rise the LLMs like ChatGPT should make it plainly obvious that static foresight has its limits. 
+
+In times such as ours, methodology is now more important than ever; success is found only through iterative refinement, not static foresight. 
+
+So,
+
+* Choose methodology over static foresight.
+* Choose methodology over static business models. 
+* Choose methodology for uncovering ideas from the very depths where forethought cannot apply. 
+
+Most of all, don’t chase success, chase a good methodology, and as every Haskell zealot knows all too well when it comes to research:
+> **avoid success at all costs!** 
 
 ---
 
