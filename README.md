@@ -30,6 +30,8 @@ As every researcher is essentially uncovering ideas from the depths where foreth
 
 Philosophically, as every good researcher knows, don’t chase success, chase a good methodology, and as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** 
 
+Personally, software research should be applied for developing software that just “feels right”. As a passionate SubStack writer, how I wish things were better! 
+
 ---
 
 **Regarding my past research:**
