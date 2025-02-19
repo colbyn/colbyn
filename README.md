@@ -28,8 +28,7 @@ This is where the researcher archetype comes into play.
 
 As every researcher is essentially uncovering ideas from the depths where forethought cannot apply. Such individuals are naturally curious, organized, and detail oriented. But most of all, such individuals are adept at gathering ideas, taking a hunch, and then digging into the depths where forethought cannot apply. 
 
-Most of all, don’t chase success, chase a good methodology, and as every Haskell zealot knows all too well when it comes to research:
-> **avoid success at all costs!** 
+Philosophically, as every good researcher knows, don’t chase success, chase a good methodology, and as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** 
 
 ---
 
