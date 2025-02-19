@@ -38,7 +38,7 @@ But while good software improves the lives and productivity of the people. The b
 
 Also, as every good researcher knows, don’t chase success, chase a good methodology, and as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** 
 
-Because success is easy, and that which is easy has its costs. For those of us guided by a higher standard, we want something more than mere success as defined by societal expectations. In this regard, the best of us are zealots who’ve fried all our pain receptors and so the nervous system perceives nothing but this ineffable higher standard. 
+Because success is easy, and that which is easy has its costs. For those of us guided by a higher standard, we want something more than mere success as defined by societal expectations. In this regard, the best of us are those zealots who’ve fried all our pain receptors and so the nervous system perceives nothing but this ineffable higher standard. 
 
 ---
 
