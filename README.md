@@ -32,7 +32,7 @@ Philosophically, as every good researcher knows, don’t chase success, chase a 
 
 Personally, software research should be applied for developing software that just “feels right”. As a passionate SubStack writer, how I wish things were better! 
 
-There’s so much software that just doesn’t “feel right”. Pure and simple, and if these companies don’t innovate by uncovering ideas from the very depths, they will be superseded by those who do, because the world needs good software! 
+There’s so much software that just doesn’t “feel right”. Pure and simple, and if these companies don’t innovate by uncovering ideas from the very depths, they will be superseded by those who do, because **the world needs good software!** 
 
 
 ---
