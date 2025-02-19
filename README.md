@@ -80,7 +80,7 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
   + [Colbyn's Personal Substack](http://colbynwadman.substack.com/)
   + [NextGen Community Research](http://nextgencommunityresearch.substack.com): **WIP!** 👉 See the [coming soon article](https://open.substack.com/pub/nextgencommunityresearch/p/coming-soon?r=28sf0r&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
-- [Medium]( https://medium.com/@colbyn ): Discontinued; the community is dead; all thats left is the old stuff from the old me.
+- [Medium]( https://medium.com/@colbyn ): Discontinued; the community is dead and now its just AI written garbage; all thats left is the old stuff from the old me.
 
 ## Contact
 
