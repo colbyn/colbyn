@@ -52,6 +52,10 @@ More generally, over here billion dollar companies can’t even make native mobi
 
 Over here tech bros are just too hella stimulated to take heed of anything outside their preconceived framework. They live like kings of old and yet for a mind that cannot change, they say stability breeds instability, especially as environmental perturbations change. 
 
+But in closing this digression, what drives me most nowadays?
+
+There was a time when I was certain that my brain was permanently fried, as I’ve seen in countless others the worst of which was this homeless man I once met… But something has changed… As if heaven itself has boosted my cognitive reserve. I don’t know if I’m at my old standard, overall I just feel as though I’ve been given a second chance in life, and that which heaven has given can just as easily be taken back. 
+
 ---
 
 **Regarding my past research:**
