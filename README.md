@@ -56,6 +56,8 @@ But in closing this digression, what drives me most nowadays?
 
 There was a time when I was certain that my brain was permanently fried, as I’ve seen in countless others the worst of which was this homeless man I once met… But something has changed… As if heaven itself has boosted my cognitive reserve. I don’t know if I’m at my old standard, overall I just feel as though I’ve been given a second chance in life, and that which heaven has given can just as easily be taken back. 
 
+In a way it makes me think of this concept of youthful folly from an old book concerning mistakes one has made but for which heaven has assigned no blame. I suppose whatever happens, I’m not so young anymore, therefore as written I must not stretch heaven’s leniency with regard to youthful ignorance. I now see myself as a man and thus henceforth I must be of strong character through-and-through.
+
 ---
 
 **Regarding my past research:**
