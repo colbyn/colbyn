@@ -4,7 +4,7 @@ I’m an independent software researcher & writer who explores new ways of doing
 
 ![cool UI]( images/subscript-ipad.jpg )
 
-**Why does the world need software researchers?**
+## Why does the world need software researchers?
 
 Because fundamentally, 
 
@@ -97,7 +97,7 @@ Moving forward I don’t see myself publishing open source software.
 
 From a business perspective, I don’t believe open source business models are viable.
 
-## In General
+## In Closing
 
 As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot because everything I do is just too custom. Nowadays we forget that automation only applies to the most common of use cases, which for me is usually within the free tier. 
 
