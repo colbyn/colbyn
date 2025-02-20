@@ -78,7 +78,7 @@ So far the highlight of my research (in order of coolness) has probably been:
            CREATE EXTENSION IF NOT EXISTS "uuid-ossp"
            """
    ```
-   Its indentation based shell scripts with higher order functions, multiline strings, and etc.
+   Its indentation based shell scripts with higher order functions, multiline strings, and etc. **Why is this not a thing?**
 5. Regarding more abstract problems in computer science, I’ve designed and implemented a very nifty monadic parser combinator library in Swift. The monadic design here is just so elegant because it propagates the parser state between function calls without having to explicitly pass such around. Which just works so simply, and for that I think it’s beautiful. 
 
 > Also someone needs to make a markdown based spreadsheet app using my native markdown rendering engine because such just seems superior to preexisting options in literally every conceivable manner possible including in terms of a native UI that just “feels right” and iOS users in particular (gotta love them ❤️) have been know to be super picky when it comes to text functionality (just ask the Flutter team.)
