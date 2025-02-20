@@ -60,9 +60,13 @@ In a way it makes me think of this concept of youthful folly from an old book co
 
 ---
 
-**Regarding my past research:**
+## Regarding My Past Research
+
+**(Limited to open source projects.)**
 
 I can’t do everything but what I can do I do well.
+
+My philosophy has been to focus on interesting ideas. So far the highlight of my research (in order of coolness) has probably been:
 
 So far the highlight of my research (in order of coolness) has probably been:
 1. Publishing hand drawn notes as self contained webpages in a resolution independent manner (why this is particularly cool is because it’s a fully freeform environment as webpages, also the editor includes some brilliant ideas for—among other things—dark mode support that no other note taking app does for some reason).
@@ -85,7 +89,15 @@ So far the highlight of my research (in order of coolness) has probably been:
 >
 > Contact me if you need someone to figure out how to freakin implement horizontally scrollable text layout fragments which I’d love to solve once and for all. 
 
-**In general:**
+Notably, the first project has been most enlightening when it comes to publishing online content.
+
+While I’m still compiling the ultimate list (I've worked on numerous closed source projects that aren’t present), see [PROJECTS.md](PROJECTS.md) for the most comprehensive list of past projects I've so far worked on, notably with regard to my past open source endeavors.
+
+Moving forward I don’t see myself publishing open source software.
+
+From a business perspective, I don’t believe open source business models are viable.
+
+## In General
 
 As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot because everything I do is just too custom. Nowadays we forget that automation only applies to the most common of use cases, which for me is usually within the free tier. 
 
@@ -95,7 +107,7 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
 
 # Files
 
-- **[PROJECTS.md](PROJECTS.md):** A mega overview of all my major projects. The culmination of my life.
+- **[PROJECTS.md](PROJECTS.md):** A **WIP** mega overview of all my major projects. The culmination of my life. Mostly contains my past open source endeavors. **Still need to compile a more comprehensive list.** 
 - **[STATUS-LOG.md]( STATUS-LOG.md ):** my general timeline of activities.
 - **[QUOTES.md]( QUOTES.md ):** thought providing quotes on systems.
 
