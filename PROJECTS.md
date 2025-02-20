@@ -1,3 +1,12 @@
+# TODO
+
+As others have noted, this list needs to be cleaned up. 
+
+Also keep in mind,
+- I've worked on many closed source projects that aren't present on this list.
+- The contents herein mostly pertain to my past open source projects.
+- TODO: overall this list needs to be cleaned up
+
 # 2018
 
 ## [SubSys/Compiler](https://github.com/SubSys/Compiler)
