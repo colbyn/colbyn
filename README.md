@@ -104,6 +104,7 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
 - [Surviving Where Others Fail]( https://colbynwadman.substack.com/p/surviving-where-others-fail?r=28sf0r )
 - [Honesty Is The Best Propaganda]( https://colbynwadman.substack.com/p/honesty-is-the-best-propaganda?r=28sf0r )
 - [The ‘next big thing’ is Social freakin Entrepreneurship!](https://open.substack.com/pub/colbynwadman/p/the-next-big-thing-is-social-freakin?r=28sf0r&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false): Chief of all social problems nowadays is the lack of social cohesion. Which is a problem that only bottom-up community building can solve.
+- [Why does the world need software researchers?](https://open.substack.com/pub/colbynwadman/p/why-does-the-world-need-software?r=28sf0r&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 # Secret Ongoing Essays
 
