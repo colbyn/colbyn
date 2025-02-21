@@ -107,7 +107,7 @@ As a programmer who doesn’t use LLMs I don’t subscribe to any chatbot becaus
 
 # Files
 
-- **[PROJECTS.md](PROJECTS.md):** A **WIP** mega overview of all my major projects. The culmination of my life. Mostly contains my past open source endeavors. **Still need to compile a more comprehensive list.** 
+- **[PROJECTS.md](PROJECTS.md):** A **WIP** mega overview of all my major projects. The culmination of my life. Mostly contains my past open source endeavors. **Still need to compile a more comprehensive list** including my various closed-source projects.
 - **[STATUS-LOG.md]( STATUS-LOG.md ):** my general timeline of activities.
 - **[QUOTES.md]( QUOTES.md ):** thought providing quotes on systems.
 
