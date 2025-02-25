@@ -36,30 +36,6 @@ But while good software improves the lives and productivity of the people. The b
 
 ---
 
-Also, as every good researcher knows, don’t chase success, chase a good methodology, and as every Haskell zealot knows all too well when it comes to research: **avoid success at all costs!** 
-
-Because success is easy, and that which is easy has its costs. For those of us guided by a higher standard, we want something more than mere success as defined by societal expectations. In this regard, the best of us are those zealots who’ve fried all their pain receptors and so the nervous system perceives nothing but this ineffable higher standard. 
-
-Moving forward, I have a hunch that success has doomed the west. As I focus on building better communities, how I would love to plant roots someplace else. Perhaps where labor is cheaper.
-
-> **Clarification:** Though no place has labor that is necessarily cheaper in a globalized market, e.g. those who are the best in a globalized field also want to be paid accordingly, a mistake made time and again, but for zealots who are building something new the cost of basic things can matter. I would know, even better is free and I tried to organize those living with their parents with no major expenses (many of whom are struggling to find formal employment so it just seemed mutually beneficial in numerous ways) but duck those losers, I guess were just not of the same nature. 
->
-> With regard to the last point, part of the problem I think is culture. My dad spent much time in Italy which perhaps influenced his perspective and likewise I hear in Latin American culture the norm is for children to live with their parents until they themselves are financially secure. But over here the culture is very different, which isn’t necessary bad, I sometimes wish I chose the easy life while at the same time I’m not so sure about playing the game of life as defined by Utahns. Perhaps such is why parents feel such an imperative for young men to settle down on something before they get better ideas.
->
-> At any rate, the towns folk condemned Socrates for corrupting the youth so perhaps its best I don’t prod too much.
-
-More generally, over here billion dollar companies can’t even make native mobile apps, personally I blame the tech bro culture that arose alongside web clients. Ease of software and content delivery is most important, as shown by SubStack that basically popularized email based content distribution, but App Clips are a thing and a step in the right direction as far as even easier delivery mechanisms are concerned and yet tech bros are utterly incognizant of better ideas beyond web clients.
-
-Over here tech bros are just too hella stimulated to take heed of anything outside their preconceived framework. They live like kings of old and yet for a mind that cannot change, they say stability breeds instability, especially as environmental perturbations change. 
-
-But in closing this digression, what drives me most nowadays?
-
-There was a time when I was certain that my brain was permanently fried, as I’ve seen in countless others the worst of which was this homeless man I once met… But something has changed… As if heaven itself has boosted my cognitive reserve. I don’t know if I’m at my old standard, overall I just feel as though I’ve been given a second chance in life, and that which heaven has given can just as easily be taken back. 
-
-In a way it makes me think of this concept of youthful folly from an old book concerning mistakes one has made but for which heaven has assigned no blame. I suppose whatever happens, I’m not so young anymore, therefore as written I must not stretch heaven’s leniency with regard to youthful ignorance. I now see myself as a man and thus henceforth I must be of strong character through-and-through.
-
----
-
 ## Regarding My Past Research
 
 **(Limited to open source projects.)**
