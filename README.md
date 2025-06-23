@@ -155,15 +155,49 @@ Notes:
 - Will be working on a rewrite of the app that compiled my [freeform chemistry notes](https://colbyn.github.io/old-school-chem-notes/dev/chemistry-1010---fall-2021/week-14-acids-and-bases.html). 
 
 
+# Legacy GitHub History
+
+- [subscript-publishing/subscript-compiler](https://github.com/subscript-publishing/subscript-compiler): Old
+- [subscript-publishing/subscript)](https://github.com/subscript-publishing/subscript): The multitude Subscript Publishing Tools
+- [subscript-publishing/subscript-display](https://github.com/subscript-publishing/subscript-display): Old
+- [subscript-publishing/subscript-html](https://github.com/subscript-publishing/subscript-html): Original HTML compiler that produced the site at [colbyn.com](http://colbyn.com)
+- [subscript-publishing/OpenSubscript)](https://github.com/subscript-publishing/OpenSubscript)
+
+## Miscellaneous  
+
+- [ai-subsystems](https://github.com/colbyn/ai-subsystems): Miscellaneous stuff for my text generation projects
+- [old-school-chem-notes](https://github.com/colbyn/old-school-chem-notes): My Old School Chemistry Notes (produced via my old note taking app)
+- [SwiftyTextEffects](https://github.com/colbyn/SwiftyTextEffects): Experiments In Markdown Parsing & Display
+- [poly-parser-rs](https://github.com/colbyn/poly-parser-rs)
+- [MonadoParser](https://github.com/colbyn/MonadoParser): Pure Swift monadic parser combinator framework with support for lossless parsing.
+- [punk-lang](https://github.com/colbyn/punk-lang): The Punk Programming Language — WIP
+- [SubscriptRemake](https://github.com/colbyn/SubscriptRemake)
+- [modern-dao-de-jing](https://github.com/colbyn/modern-dao-de-jing)
+- [all-school-notes](https://github.com/colbyn/all-school-notes)
+- [school-notes-fall-2022](https://github.com/colbyn/school-notes-fall-2022)
+- [tao-te-ching-book](https://github.com/colbyn/tao-te-ching-book)
+- [ami-uploader](https://github.com/colbyn/ami-uploader): Amazon machine image uploader & other miscellaneous utilities
+- [school-scripts](https://github.com/colbyn/school-scripts)
+- [resume-2022](https://github.com/colbyn/resume-2022)
+- [tao-te-ching-rs](https://github.com/colbyn/tao-te-ching-rs): Tao Te Ching, A Modern Paraphrase
+- [subscript-old](https://github.com/colbyn/subscript-old): Productively create maintainable web-apps, utilizing the best of Rust’s unique features.
+
+## Ancient
+
+- [SubSys/Compiler](https://github.com/SubSys/Compiler)
+- [imager-io/imager](https://github.com/imager-io/imager)
+- [imager-io/ffmpeg-dev-rs](https://github.com/imager-io/ffmpeg-dev-rs)
+- [imager-io/webp-dev-rs](https://github.com/imager-io/webp-dev-rs)
+- [imager-io/imager-io-js](https://github.com/imager-io/imager-io-js)
+- [imager-io/x264-dev](https://github.com/imager-io/x264-dev)
 
 
-
-# Links
+# Other Links
 
 - [My Beautiful Math Notes](https://colbyn.github.io/school-notes-spring-2020/): Looks best on wide viewports.
 - [My Experimental Chemistry Notes](https://colbyn.github.io/old-school-chem-notes/dev/chemistry-1010---fall-2021/index.html): from the root table of contents, click on any option to see my freeform notes.
 - [The Tao Te Ching](https://colbyn.github.io/tao-te-ching-book/)
 
-## Contact
+# Contact
 
 - Email: hello@colbyn.com
