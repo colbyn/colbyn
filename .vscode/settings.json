@@ -8,5 +8,10 @@
         "plaintext",
         "git-commit",
         "tex"
+    ],
+    "cSpell.words": [
+        "DSL",
+        "endfor",
+        "SSG"
     ]
 }
