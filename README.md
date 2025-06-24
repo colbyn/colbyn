@@ -201,3 +201,7 @@ Notes:
 # Contact
 
 - Email: hello@colbyn.com
+
+# Status
+
+Working on A/V automation [reference](https://gist.github.com/colbyn/c9fad72c03e64fef94532f7b5af29a7d). Looking back, when I worked at a video streaming startup, now I totally understand the pain of those devs who had to deal with ffmpeg in a live streaming context lol 
