@@ -1,0 +1,140 @@
+I accidentally deleted this list. What follows is just what I happened to recover (I can't remember how I recovered the list but its not the same).
+
+# The book of short insights
+
+- The best way to predict the future is to create it.
+- Path-dependency affects future options.
+- Risk and reward are inversely proportional?
+- All models are wrong, but some are useful.
+- Every good regulator of a system must be a model of that system.
+- Mutualistic relationships benefit both parties.
+- Leverage points are places to intervene in a system.
+- Looking for leverage points can reveal opportunities for intervention.
+- Small changes can produce big results—but the areas of highest leverage are often the least obvious.
+- Correlation does not imply causation.
+- The observer affects the observed.
+- Adaptive cycles move through growth and renewal.
+- Decentralized systems distribute risk.
+- Stability can breed instability.
+- Isolated systems tend to disorder.
+- Adaptive systems anticipate change.
+- Feedback is central to system control.
+- Regulatory mechanisms maintain system balance.
+- Evolving systems are contingent on historical paths.
+- Emergence arises from local interactions.
+- Phase transitions arise at critical points.
+- Systems transition through bifurcation points.
+- Modularity aids in system adaptability.
+- Attractors govern the behavior of dynamic systems.
+- Nonlinearities shape system behavior.
+- The edge of chaos is a realm of maximum adaptability.
+- Scaling laws govern growth dynamics.
+- Constraints shape creativity.
+- All systems have limits to growth.
+- Boundaries define system scope and scale.
+- Boundaries are determinants of system behavior.
+- Self-organization is a hallmark of complex systems.
+- The map is not the territory.
+- The flap of a butterfly’s wings can cause a tornado.
+- Simple rules can generate complex behavior.
+- Chaos exists within order, and order within chaos.
+- The whole is greater than the sum of its parts.
+- Reality is probabilistic, not deterministic.
+- Sensitivity to initial conditions shapes outcomes.
+- Network hubs dominate system flows.
+- Networks are more than their nodes and edges.
+- Hierarchies exist in all complex systems.
+- Form follows function.
+- Adaptation is the key to survival in changing environments.
+- Mental models shape our understanding and actions. Narratives and stories can help in making sense of complex systems.
+- Innovation often arises at system interfaces.
+- Interactions are multiplicative, not additive.
+- Multiplicity in unity.
+- Diversity fosters resilience.
+- Optimization often leads to fragility.
+- The path to effective intervention is paved with genuine understanding.
+- The path of least resistance is the path most often taken.
+- Resonance amplifies small disturbances.
+- Effective governance is built on the foundation of understanding the governed.
+- Guiding light is brightest when it understands the shadows it illuminates.
+- Small changes can have big impacts.
+- Synergies amplify system outputs.
+- Tight coupling can amplify risks.
+- Recycling loops reduce system waste.
+- Diverse systems are more robust to shocks.
+- Incentives drive behavior.
+- Supply and demand will always find a balance. 
+- Systems thinking requires a shift in perception.
+- Change is the only constant.
+- Perspective shapes reality.
+- Patterns repeat across different systems.
+- Systems seek equilibrium, but rarely remain there.
+- Redundancy adds resilience to systems.
+- Timing is crucial in influencing systems.
+- Short-term optimizations can compromise long-term resilience.
+- Structure determines patterns of behavior.
+- Every system is nested within other systems.
+- Cycles are inherent in many systems.
+- Success often sows the seeds of its own demise.
+- Information flow is crucial for system health.
+- Unintended consequences arise from well-intended actions.
+- Every intervention has trade-offs.
+- Hidden connections often drive system behavior.
+- Systems seldom have only one equilibrium point.
+- Interdependence creates both strength and vulnerability.
+- Sometimes the slowest, smallest changes have the most lasting impact.
+- Oversimplification can lead to misunderstanding and mismanagement.
+- Harmony in systems is a balance of competing forces.
+- When a system seems too stable, it may becoming too brittle.
+- Mental flexibility is essential for navigating complex systems.
+- Stock and flow structures determine system dynamics.
+- System boundaries are often artificial and subjective.
+- A system’s resilience is a measure of its ability to absorb disturbances.
+- The behavior of elements in isolation can differ from their behavior within systems.
+- Feedback delay can complicate the predictability of system outcomes.
+- A system’s purpose is deduced from its behavior, not its rhetoric.
+- High variability often indicates an underlying systemic issue.
+- Surprises are a natural outcome in dynamic systems.
+- Systems can exhibit emergent properties not evident in their individual parts.
+- Systems can be open, closed, or isolated, each with its own dynamics.
+- Subsystems must be aligned with the overall system’s goals for coherence.
+- Systems can be both robust and fragile at the same time.
+- Externalities can be unintended side effects of system operations.
+- Historical events can lock systems into specific trajectories.
+- Balance and feedback are key to maintaining system health.
+- Transparency can aid in understanding and managing complex systems.
+- System health often depends on the flow and quality of information.
+- Conflicting short-term and long-term goals can destabilize systems.
+- Anticipating system behavior requires understanding its underlying structure.
+- Optimization of one part can lead to sub-optimization of the whole system.
+- Misunderstanding feedback can lead to counterintuitive outcomes.
+- Systems can be adaptive, self-organizing, or chaotic based on internal and external influences.
+- A high degree of connectivity can lead to both resilience and vulnerability.
+- Disruptions can be both threats and opportunities for system evolution.
+- Iteration and feedback create the conditions for adaptation and learning.
+- Endogenous factors often play a more significant role in system dynamics than realized.
+- Systems can be analyzed at various scales, each with its own dynamics and patterns. 
+- Perception of a system varies based on one’s vantage point.
+- Systems evolve, and understanding their trajectory is vital.
+- Many systems have thresholds beyond which they cannot return.
+- Heuristics can both aid and hinder our understanding of systems.
+- Paradoxes are common in complex systems.
+- Continuous learning is crucial to navigate ever-evolving systems.
+- Systems are often more resilient than they appear but also more vulnerable than they seem.
+- Over-reliance on one component of a system can lead to vulnerabilities.
+- Cognitive biases can influence our perception and management of systems.
+- Systems often contain feedback loops that can be reinforcing or balancing.
+- Acknowledging and challenging our assumptions is essential when dealing with systems.
+- One can never have complete knowledge of a system; humility is key.
+- Both analysis (breaking systems into parts) and synthesis (looking at the whole) are essential for understanding.
+- History matters, as systems carry legacy effects from past events.
+- Systems are inherently dynamic, and static analysis can miss key behaviors.
+- Sometimes the most influential parts of a system are the least visible.
+- In complex systems, cause and effect can be distant in time and space.
+- Every system has its own pace; forcing a change can lead to unintended consequences.
+- Understanding context is crucial; what works in one system may not work in another.
+- Learning from failures is as important as learning from successes.
+- The most robust solutions often involve multiple interventions at different levels.
+- Predicting the behavior of complex systems with precision is often impossible.
+- Narratives and stories can help in making sense of complex systems.
+
