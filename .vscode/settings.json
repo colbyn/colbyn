@@ -24,5 +24,8 @@
         "SSG",
         "Transdisciplinary",
         "WIP"
-    ]
+    ],
+    "cSpell.enabledFileTypes": {
+        "markdown": true
+    }
 }
