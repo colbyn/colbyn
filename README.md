@@ -1,6 +1,8 @@
 # Update
 
-[My site](https://colbyn.com) at `colbyn.com` is finally live! (Before it just redirected to my old school notes.)
+See my new WIP site [colbyn.com](https://colbyn.com)! 
+
+(Before it just redirected to my old school notes.)
 
 # About Me
 
